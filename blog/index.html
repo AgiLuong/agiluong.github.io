@@ -1,0 +1,31 @@
+---
+title: Agi's Blog
+---
+<!DOCTYPE html>
+<html lang="en">
+<title>
+{% if page.title %}
+    {{ page.title }}
+{% else %}
+    {{ site.title }}
+{% endif %}
+</title>
+{% include head.html %}
+<body>
+    {% include header.html %}
+
+    <div class="content">
+        <u><h3><a class="item" href="/blog/whimsical">Whimsical</a></h3></u>
+        <p>May 4th, 2025</p>
+    </div>
+    <hr style="width: 50%">
+    
+    <div class="content">
+        <u><h3><a class="item" href="/blog/thirtytwoteeth">Prologue: 32 Teeth</a></h3></u>
+        <p>December 10th, 2024</p>
+    </div>
+    <hr style="width: 50%">
+</body>
+</html>
+
+
