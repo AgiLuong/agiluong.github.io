@@ -1,0 +1,5685 @@
+{
+  "game": "Subnautica",
+  "items": {
+    "Energy": {
+      "name": "Energy",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Acid Mushroom": {
+      "name": "Acid Mushroom",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Acid Mushroom Spore": {
+      "name": "Acid Mushroom Spore",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Ruby": {
+      "name": "Ruby",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Seabed"
+      ],
+      "biomes": [
+        "Blood Kelp Zone",
+        "Bone Fields Caves",
+        "Bulb Zone",
+        "Bulb Zone Caves",
+        "Crash Zone Mesas",
+        "Deep Sparse Reef",
+        "Dunes",
+        "Grand Reef",
+        "Grand Reef Caves",
+        "Inactive Lava Zone",
+        "Lost River",
+        "Bone Fields",
+        "Corridor",
+        "Ghost Canyon",
+        "Ghost Forest",
+        "Tree Cove",
+        "Junction",
+        "Mountains Corridor",
+        "Mountains Caves",
+        "Sea Treader's Tunnel Caves",
+        "Underwater Islands Caves"
+      ],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Bladderfish": {
+      "name": "Bladderfish",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Blood Oil": {
+      "name": "Blood Oil",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Blue Palm Seed": {
+      "name": "Blue Palm Seed",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Boomerang": {
+      "name": "Boomerang",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Boneshark": {
+      "name": "Boneshark",
+      "raw": false,
+      "recipe": {
+        "Boneshark Egg": 1
+      },
+      "acquired_from": [
+        "Alien Containment"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Boneshark Egg": 1
+      }
+    },
+    "Boneshark Egg": {
+      "name": "Boneshark Egg",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Bulbo Tree Sample": {
+      "name": "Bulbo Tree Sample",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Copper Ore": {
+      "name": "Copper Ore",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Barnacle",
+        "Limestone Outcrop",
+        "Large Resource Deposits"
+      ],
+      "biomes": [
+        "Blood Kelp Caves",
+        "Blood Kelp Zone",
+        "Crag Field",
+        "Crash Zone",
+        "Main Crash Zone",
+        "Crash Zone Mesas",
+        "Dunes",
+        "Dunes Caves",
+        "Grand Reef",
+        "Grassy Plateaus",
+        "Grassy Plateaus Caves",
+        "Inactive Lava Zone Corridor",
+        "Inactive Lava Zone",
+        "Kelp Forest",
+        "Kelp Forest Caves",
+        "Lost River",
+        "Corridor",
+        "Ghost Canyon",
+        "Junction",
+        "Mushroom Forest",
+        "Safe Shallows",
+        "Safe Shallows Caves",
+        "Sea Treader's Path",
+        "Sea Treader's Tunnel Caves",
+        "Sparse Reef",
+        "Underwater Islands"
+      ],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Coral Tube Sample": {
+      "name": "Coral Tube Sample",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Giant Coral Tubes",
+        "Coral Shell Plate"
+      ],
+      "biomes": [
+        "Bulb Zone",
+        "Crash Zone",
+        "Main Crash Zone",
+        "Crash Zone Mesas",
+        "Grassy Plateaus",
+        "Grassy Plateaus Caves",
+        "Kelp Forest",
+        "Mountains Caves",
+        "Mushroom Forest Caves",
+        "Safe Shallows",
+        "Safe Shallows Caves",
+        "Underwater Islands"
+      ],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Crabsnake": {
+      "name": "Crabsnake",
+      "raw": false,
+      "recipe": {
+        "Crabsnake Egg": 1
+      },
+      "acquired_from": [
+        "Alien Containment"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Crabsnake Egg": 1
+      }
+    },
+    "Crabsnake Egg": {
+      "name": "Crabsnake Egg",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Crabsquid": {
+      "name": "Crabsquid",
+      "raw": false,
+      "recipe": {
+        "Crabsquid Egg": 1
+      },
+      "acquired_from": [
+        "Alien Containment"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Crabsquid Egg": 1
+      }
+    },
+    "Crabsquid Egg": {
+      "name": "Crabsquid Egg",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Crashfish": {
+      "name": "Crashfish",
+      "raw": false,
+      "recipe": {
+        "Crashfish Egg": 1
+      },
+      "acquired_from": [
+        "Alien Containment"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Crashfish Egg": 1
+      }
+    },
+    "Crashfish Egg": {
+      "name": "Crashfish Egg",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Cave Sulfur": {
+      "name": "Cave Sulfur",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Sulfur Plant"
+      ],
+      "biomes": [
+        "Safe Shallows",
+        "Safe Shallows Caves",
+        "Kelp Forest Caves"
+      ],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Creepvine Sample": {
+      "name": "Creepvine Sample",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Creepvine Seed Cluster": {
+      "name": "Creepvine Seed Cluster",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Cuddlefish": {
+      "name": "Cuddlefish",
+      "raw": false,
+      "recipe": {
+        "Cuddlefish Egg": 1
+      },
+      "acquired_from": [
+        "Alien Containment"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Cuddlefish Egg": 1
+      }
+    },
+    "Cuddlefish Egg": {
+      "name": "Cuddlefish Egg",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Diamond": {
+      "name": "Diamond",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Seabed",
+        "Shale Outcrop"
+      ],
+      "biomes": [
+        "Bone Fields Caves",
+        "Blood Kelp Caves",
+        "Blood Kelp Zone",
+        "Bulb Zone",
+        "Bulb Zone Caves",
+        "Crag Field",
+        "Crash Zone",
+        "Crash Zone Mesas",
+        "Deep Grand Reef",
+        "Deep Sparse Reef",
+        "Grand Reef",
+        "Grand Reef Caves",
+        "Inactive Lava Zone",
+        "Inactive Lava Zone Corridor",
+        "Jellyshroom Cave",
+        "Lost River",
+        "Bone Fields",
+        "Corridor",
+        "Ghost Forest",
+        "Junction",
+        "Mountains Corridor",
+        "Mountain Island",
+        "Mountains",
+        "Mountains Caves",
+        "Mushroom Forest",
+        "Sea Treader's Path",
+        "Sea Treader's Tunnel Caves",
+        "Sparse Reef",
+        "Underwater Islands",
+        "Underwater Islands Caves"
+      ],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Eye Stalk Seed": {
+      "name": "Eye Stalk Seed",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Eyeye": {
+      "name": "Eyeye",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Fern Palm Seed": {
+      "name": "Fern Palm Seed",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Floater": {
+      "name": "Floater",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Gabe's Feather Seed": {
+      "name": "Gabe's Feather Seed",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Garryfish": {
+      "name": "Garryfish",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Gasopod": {
+      "name": "Gasopod",
+      "raw": false,
+      "recipe": {
+        "Gasopod Egg": 1
+      },
+      "acquired_from": [
+        "Alien Containment"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Gasopod Egg": 1
+      }
+    },
+    "Gasopod Egg": {
+      "name": "Gasopod Egg",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Gas Pod": {
+      "name": "Gas Pod",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Gasopod Gasopod"
+      ],
+      "biomes": [
+        "Safe Shallows",
+        "Dunes",
+        "Crash Zone",
+        "Crash Zone Mesas"
+      ],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Gold": {
+      "name": "Gold",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Large Resource Deposits",
+        "Sandstone Outcrop",
+        "Seabed (Only in the Lava Pit)",
+        "Shale Outcrop"
+      ],
+      "biomes": [
+        "Blood Kelp Caves",
+        "Blood Kelp Zone",
+        "Bone Fields Caves",
+        "Bulb Zone",
+        "Bulb Zone Caves",
+        "Crag Field",
+        "Crash Zone Mesas",
+        "Deep Sparse Reef",
+        "Dunes",
+        "Dunes Caves",
+        "Grand Reef",
+        "Grand Reef Caves",
+        "Grassy Plateaus",
+        "Grassy Plateaus Caves",
+        "Inactive Lava Zone Corridor",
+        "Inactive Lava Zone",
+        "Jellyshroom Cave",
+        "Kelp Forest",
+        "Kelp Forest Caves",
+        "Lost River",
+        "Bones Fields",
+        "Corridor",
+        "Ghost Forest",
+        "Tree Cove",
+        "Junction",
+        "Mountains Corridor",
+        "Mountains Caves",
+        "Mountain Island",
+        "Mountains",
+        "Mushroom Forest",
+        "Mushroom Forest Caves",
+        "Safe Shallows",
+        "Safe Shallows Caves",
+        "Sea Treader's Path",
+        "Sea Treader's Tunnel Caves",
+        "Sparse Reef",
+        "Underwater Islands",
+        "Underwater Islands Caves"
+      ],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Lantern Fruit": {
+      "name": "Lantern Fruit",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Holefish": {
+      "name": "Holefish",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Hoopfish": {
+      "name": "Hoopfish",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Hoverfish": {
+      "name": "Hoverfish",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Gel Sack": {
+      "name": "Gel Sack",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Gel Sack Spores": {
+      "name": "Gel Sack Spores",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Jellyray": {
+      "name": "Jellyray",
+      "raw": false,
+      "recipe": {
+        "Jellyray Egg": 1
+      },
+      "acquired_from": [
+        "Alien Containment"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Jellyray Egg": 1
+      }
+    },
+    "Jellyray Egg": {
+      "name": "Jellyray Egg",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Table Coral Sample": {
+      "name": "Table Coral Sample",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Table Coral"
+      ],
+      "biomes": [
+        "Bulb Zone",
+        "Crash Zone Mesas",
+        "Deep Sparse Reef",
+        "Grassy Plateaus",
+        "Kelp Forest",
+        "Kelp Forest Caves",
+        "Lost River",
+        "Mushroom Forest",
+        "Reefback Leviathan",
+        "Safe Shallows",
+        "Sparse Reef"
+      ],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Shuttlebug": {
+      "name": "Shuttlebug",
+      "raw": false,
+      "recipe": {
+        "Shuttlebug Egg": 1
+      },
+      "acquired_from": [
+        "Alien Containment"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Shuttlebug Egg": 1
+      }
+    },
+    "Shuttlebug Egg": {
+      "name": "Shuttlebug Egg",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Bulb Bush Sample": {
+      "name": "Bulb Bush Sample",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Kyanite": {
+      "name": "Kyanite",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Seabed",
+        "Large Resource Deposits"
+      ],
+      "biomes": [
+        "Inactive Lava Zone",
+        "Lava Lakes",
+        "Lava Castle"
+      ],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Magmarang": {
+      "name": "Magmarang",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Red Eyeye": {
+      "name": "Red Eyeye",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Lava Lizard": {
+      "name": "Lava Lizard",
+      "raw": false,
+      "recipe": {
+        "Lava Lizard Egg": 1
+      },
+      "acquired_from": [
+        "Alien Containment"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Lava Lizard Egg": 1
+      }
+    },
+    "Lava Lizard Egg": {
+      "name": "Lava Lizard Egg",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Lead": {
+      "name": "Lead",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Sandstone Outcrop",
+        "Seabed (Only in the Lava Pit)",
+        "Large Resource Deposits"
+      ],
+      "biomes": [
+        "Blood Kelp Zone",
+        "Bulb Zone",
+        "Crag Field",
+        "Crash Zone",
+        "Crash Zone Mesas",
+        "Deep Grand Reef",
+        "Deep Sparse Reef",
+        "Dunes",
+        "Dunes Caves",
+        "Grand Reef",
+        "Grassy Plateaus",
+        "Grassy Plateaus Caves",
+        "Inactive Lava Zone Corridor",
+        "Inactive Lava Zone",
+        "Kelp Forest",
+        "Kelp Forest Caves",
+        "Lost River",
+        "Bone Fields",
+        "Ghost Forest",
+        "Tree Cove",
+        "Mountains Corridor",
+        "Mountains",
+        "Mushroom Forest",
+        "Safe Shallows",
+        "Safe Shallows Caves",
+        "Sea Treader's Path",
+        "Sparse Reef",
+        "Underwater Islands"
+      ],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Lithium": {
+      "name": "Lithium",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Seabed",
+        "Shale Outcrop",
+        "Large Resource Deposits"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Magnetite": {
+      "name": "Magnetite",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Seabed",
+        "Large Resource Deposits"
+      ],
+      "biomes": [
+        "Blood Kelp Zone",
+        "Inactive Lava Zone",
+        "Jellyshroom Cave",
+        "Lava Castle",
+        "Lost River",
+        "Bone Fields",
+        "Ghost Forest",
+        "Tree Cove",
+        "Mountains Caves",
+        "Mountains",
+        "Sea Treader's Path"
+      ],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Marblemelon": {
+      "name": "Marblemelon",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Marblemelon Seed": {
+      "name": "Marblemelon Seed",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Membrain Tree Seed": {
+      "name": "Membrain Tree Seed",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Mesmer": {
+      "name": "Mesmer",
+      "raw": false,
+      "recipe": {
+        "Mesmer Egg": 1
+      },
+      "acquired_from": [
+        "Alien Containment"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Mesmer Egg": 1
+      }
+    },
+    "Mesmer Egg": {
+      "name": "Mesmer Egg",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Nickel Ore": {
+      "name": "Nickel Ore",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Large Resource Deposits",
+        "Seabed"
+      ],
+      "biomes": [
+        "Inactive Lava Zone",
+        "Lost River",
+        "Bone Fields",
+        "Ghost Canyon",
+        "Ghost Forest",
+        "Tree Cove",
+        "Junction"
+      ],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Oculus": {
+      "name": "Oculus",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Jaffa Cup Seed": {
+      "name": "Jaffa Cup Seed",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Grub Basket Seed": {
+      "name": "Grub Basket Seed",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Peeper": {
+      "name": "Peeper",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Voxel Shrub Seed": {
+      "name": "Voxel Shrub Seed",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Pink Cap": {
+      "name": "Pink Cap",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Pink Cap Spore": {
+      "name": "Pink Cap Spore",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Ion Cube": {
+      "name": "Ion Cube",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Large Resource Deposits"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Brain Coral Sample": {
+      "name": "Brain Coral Sample",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Cave Bush Seed": {
+      "name": "Cave Bush Seed",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Veined Nettle Seed": {
+      "name": "Veined Nettle Seed",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Speckled Rattler": {
+      "name": "Speckled Rattler",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Speckled Rattler Spore": {
+      "name": "Speckled Rattler Spore",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Violet Beau Seed": {
+      "name": "Violet Beau Seed",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Writhing Weed Seed": {
+      "name": "Writhing Weed Seed",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Ming Plant Seed": {
+      "name": "Ming Plant Seed",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Chinese Potato": {
+      "name": "Chinese Potato",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Quartz": {
+      "name": "Quartz",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Large Resource Deposits",
+        "Seabed"
+      ],
+      "biomes": [
+        "Blood Kelp Caves",
+        "Blood Kelp Zone",
+        "Crag Field",
+        "Crash Zone",
+        "Crash Zone Mesas",
+        "Deep Sparse Reef",
+        "Dunes",
+        "Dunes Caves",
+        "Grand Reef",
+        "Grassy Plateaus",
+        "Grassy Plateaus Caves",
+        "Inactive Lava Zone",
+        "Kelp Forest",
+        "Kelp Forest Caves",
+        "Lost River",
+        "Bone Fields",
+        "Corridor",
+        "Ghost Canyon",
+        "Ghost Forest",
+        "Tree Cove",
+        "Junction",
+        "Mountains Corridor",
+        "Mountains Caves",
+        "Safe Shallows",
+        "Safe Shallows Caves",
+        "Sea Treader's Path",
+        "Sea Treader's Tunnel Caves",
+        "Sparse Reef",
+        "Underwater Islands",
+        "Underwater Islands Caves"
+      ],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Rabbit Ray": {
+      "name": "Rabbit Ray",
+      "raw": false,
+      "recipe": {
+        "Rabbit Ray Egg": 1
+      },
+      "acquired_from": [
+        "Alien Containment"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Rabbit Ray Egg": 1
+      }
+    },
+    "Rabbit Ray Egg": {
+      "name": "Rabbit Ray Egg",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Rouge Cradle Seed": {
+      "name": "Rouge Cradle Seed",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Redwort Seed": {
+      "name": "Redwort Seed",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Regress Shell Seed": {
+      "name": "Regress Shell Seed",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Ghost Weed Seed": {
+      "name": "Ghost Weed Seed",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Furled Papyrus Seed": {
+      "name": "Furled Papyrus Seed",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Reefback": {
+      "name": "Reefback",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Reefback Egg": {
+      "name": "Reefback Egg",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Reginald": {
+      "name": "Reginald",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Sand Shark": {
+      "name": "Sand Shark",
+      "raw": false,
+      "recipe": {
+        "Sand Shark Egg": 1
+      },
+      "acquired_from": [
+        "Alien Containment"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Sand Shark Egg": 1
+      }
+    },
+    "Sand Shark Egg": {
+      "name": "Sand Shark Egg",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Metal Salvage": {
+      "name": "Metal Salvage",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Seabed"
+      ],
+      "biomes": [
+        "Bulb Zone",
+        "Crag Field",
+        "Crash Zone",
+        "Crash Zone Mesas",
+        "Dunes",
+        "Grassy Plateaus",
+        "Kelp Forest",
+        "Safe Shallows"
+      ],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Sea Crown Seed": {
+      "name": "Sea Crown Seed",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Alien Feces": {
+      "name": "Alien Feces",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Spiked Horn Grass Seed": {
+      "name": "Spiked Horn Grass Seed",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Ampeel": {
+      "name": "Ampeel",
+      "raw": false,
+      "recipe": {
+        "Ampeel Egg": 1
+      },
+      "acquired_from": [
+        "Alien Containment"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Ampeel Egg": 1
+      }
+    },
+    "Ampeel Egg": {
+      "name": "Ampeel Egg",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Silver Ore": {
+      "name": "Silver Ore",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Barnacle",
+        "Sandstone Outcrop",
+        "Large Resource Deposits"
+      ],
+      "biomes": [
+        "Bulb Zone",
+        "Crag Field",
+        "Crash Zone",
+        "Crash Zone Mesas",
+        "Deep Sparse Reef",
+        "Dunes",
+        "Dunes Caves",
+        "Grand Reef",
+        "Grassy Plateaus",
+        "Grassy Plateaus Caves",
+        "Kelp Forest",
+        "Kelp Forest Caves",
+        "Inactive Lava Zone",
+        "Lost River",
+        "Bone Fields",
+        "Ghost Forest",
+        "Tree Cove",
+        "Mountains Corridor",
+        "Mountains",
+        "Mushroom Forest",
+        "Safe Shallows",
+        "Safe Shallows Caves",
+        "Sea Treader's Path",
+        "Underwater Islands"
+      ],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Pygmy Fan Seed": {
+      "name": "Pygmy Fan Seed",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Small Marblemelon": {
+      "name": "Small Marblemelon",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Jellyshroom Spore": {
+      "name": "Jellyshroom Spore",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Spadefish": {
+      "name": "Spadefish",
+      "raw": false,
+      "recipe": {
+        "Spadefish Egg": 1
+      },
+      "acquired_from": [
+        "Alien Containment"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Spadefish Egg": 1
+      }
+    },
+    "Spadefish Egg": {
+      "name": "Spadefish Egg",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Tiger Plant Seed": {
+      "name": "Tiger Plant Seed",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Spinefish": {
+      "name": "Spinefish",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Spotted Dockleaf Seed": {
+      "name": "Spotted Dockleaf Seed",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Stalker": {
+      "name": "Stalker",
+      "raw": false,
+      "recipe": {
+        "Stalker Egg": 1
+      },
+      "acquired_from": [
+        "Alien Containment"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Stalker Egg": 1
+      }
+    },
+    "Stalker Egg": {
+      "name": "Stalker Egg",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Stalker Teeth": {
+      "name": "Stalker Teeth",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Stalker Stalker"
+      ],
+      "biomes": [
+        "Crash Zone",
+        "Kelp Forest"
+      ],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Crystalline Sulfur": {
+      "name": "Crystalline Sulfur",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "-"
+      ],
+      "biomes": [
+        "Inactive Lava Zone",
+        "Inactive Lava Chamber",
+        "Inactive Lava Zone Corridor",
+        "Lava Castle",
+        "Lava Lakes",
+        "Lost River",
+        "Ghost Canyon",
+        "Ghost Forest",
+        "Junction",
+        "Mountains Corridor"
+      ],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Fungal Sample": {
+      "name": "Fungal Sample",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Tree Mushrooms"
+      ],
+      "biomes": [
+        "Mushroom Forest"
+      ],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Uraninite Crystal": {
+      "name": "Uraninite Crystal",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Seabed",
+        "Large Resource Deposits"
+      ],
+      "biomes": [
+        "Blood Kelp Caves",
+        "Blood Kelp Zone",
+        "Bulb Zone Caves",
+        "Deep Grand Reef",
+        "Grand Reef",
+        "Grand Reef Caves",
+        "Inactive Lava Zone",
+        "Lost River",
+        "Tree Cove",
+        "Junction",
+        "Mountains Corridor",
+        "Mountains",
+        "Mountains Caves",
+        "Underwater Islands"
+      ],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Deep Shroom": {
+      "name": "Deep Shroom",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Deep Shroom Spore": {
+      "name": "Deep Shroom Spore",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Vehicle Upgrade Console": {
+      "name": "Vehicle Upgrade Console",
+      "raw": false,
+      "recipe": {
+        "Titanium": 3,
+        "Computer Chip": 1,
+        "Copper Wire": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 4,
+        "Gold": 1,
+        "Metal Salvage": 3,
+        "Table Coral Sample": 2
+      }
+    },
+    "Habitat Builder": {
+      "name": "Habitat Builder",
+      "raw": false,
+      "recipe": {
+        "Wiring Kit": 1,
+        "Computer Chip": 1,
+        "Battery": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Acid Mushroom": 2,
+        "Copper Ore": 3,
+        "Gold": 1,
+        "Silver Ore": 2,
+        "Table Coral Sample": 2
+      }
+    },
+    "Coffee Vending Machine": {
+      "name": "Coffee Vending Machine",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 2
+      }
+    },
+    "Mobile Vehicle Bay": {
+      "name": "Mobile Vehicle Bay",
+      "raw": false,
+      "recipe": {
+        "Titanium Ingot": 1,
+        "Lubricant": 1,
+        "Power Cell": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Acid Mushroom": 4,
+        "Copper Ore": 2,
+        "Creepvine Seed Cluster": 2,
+        "Metal Salvage": 10
+      }
+    },
+    "Cyclops Upgrade Console": {
+      "name": "Cyclops Upgrade Console",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Fabricator": {
+      "name": "Fabricator",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1,
+        "Gold": 1,
+        "Table Coral Sample": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Gold": 1,
+        "Metal Salvage": 1,
+        "Table Coral Sample": 1
+      }
+    },
+    "Neptune Launch Platform": {
+      "name": "Neptune Launch Platform",
+      "raw": false,
+      "recipe": {
+        "Lead": 4,
+        "Titanium Ingot": 2,
+        "Computer Chip": 1
+      },
+      "acquired_from": [
+        "Mobile Vehicle Bay"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Gold": 1,
+        "Lead": 4,
+        "Metal Salvage": 20,
+        "Table Coral Sample": 2
+      }
+    },
+    "Modification Station": {
+      "name": "Modification Station",
+      "raw": false,
+      "recipe": {
+        "Computer Chip": 1,
+        "Titanium": 1,
+        "Diamond": 1,
+        "Lead": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Diamond": 1,
+        "Gold": 1,
+        "Lead": 1,
+        "Metal Salvage": 1,
+        "Table Coral Sample": 2
+      }
+    },
+    "Advanced Wiring Kit": {
+      "name": "Advanced Wiring Kit",
+      "raw": false,
+      "recipe": {
+        "Wiring Kit": 1,
+        "Gold": 2,
+        "Computer Chip": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Gold": 3,
+        "Silver Ore": 2,
+        "Table Coral Sample": 2
+      }
+    },
+    "Aerogel": {
+      "name": "Aerogel",
+      "raw": false,
+      "recipe": {
+        "Gel Sack": 1,
+        "Ruby": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Gel Sack": 1,
+        "Ruby": 1
+      }
+    },
+    "Air Bladder": {
+      "name": "Air Bladder",
+      "raw": false,
+      "recipe": {
+        "Silicone Rubber": 1,
+        "Bladderfish": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Bladderfish": 1,
+        "Creepvine Seed Cluster": 1
+      }
+    },
+    "Synthetic Fibers": {
+      "name": "Synthetic Fibers",
+      "raw": false,
+      "recipe": {
+        "Benzene": 1,
+        "Fiber Mesh": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Blood Oil": 3,
+        "Creepvine Sample": 2
+      }
+    },
+    "Battery": {
+      "name": "Battery",
+      "raw": false,
+      "recipe": {
+        "Acid Mushroom": 2,
+        "Copper Ore": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Acid Mushroom": 2,
+        "Copper Ore": 1
+      }
+    },
+    "Beacon": {
+      "name": "Beacon",
+      "raw": false,
+      "recipe": {
+        "Copper Ore": 1,
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 1,
+        "Metal Salvage": 1
+      }
+    },
+    "Benzene": {
+      "name": "Benzene",
+      "raw": false,
+      "recipe": {
+        "Blood Oil": 3
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Blood Oil": 3
+      }
+    },
+    "Large Filtered Water": {
+      "name": "Large Filtered Water",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Bleach": {
+      "name": "Bleach",
+      "raw": false,
+      "recipe": {
+        "Salt Deposit": 1,
+        "Coral Tube Sample": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Coral Tube Sample": 1,
+        "Salt Deposit": 1
+      }
+    },
+    "Coffee Americano": {
+      "name": "Coffee Americano",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Compass": {
+      "name": "Compass",
+      "raw": false,
+      "recipe": {
+        "Copper Wire": 1,
+        "Wiring Kit": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Silver Ore": 2
+      }
+    },
+    "Computer Chip": {
+      "name": "Computer Chip",
+      "raw": false,
+      "recipe": {
+        "Table Coral Sample": 2,
+        "Gold": 1,
+        "Copper Wire": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Gold": 1,
+        "Table Coral Sample": 2
+      }
+    },
+    "Cooked Bladderfish": {
+      "name": "Cooked Bladderfish",
+      "raw": false,
+      "recipe": {
+        "Bladderfish": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Bladderfish": 1
+      }
+    },
+    "Cooked Boomerang": {
+      "name": "Cooked Boomerang",
+      "raw": false,
+      "recipe": {
+        "Boomerang": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Boomerang": 1
+      }
+    },
+    "Cooked Eyeye": {
+      "name": "Cooked Eyeye",
+      "raw": false,
+      "recipe": {
+        "Eyeye": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Eyeye": 1
+      }
+    },
+    "Cooked Garryfish": {
+      "name": "Cooked Garryfish",
+      "raw": false,
+      "recipe": {
+        "Garryfish": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Garryfish": 1
+      }
+    },
+    "Cooked Holefish": {
+      "name": "Cooked Holefish",
+      "raw": false,
+      "recipe": {
+        "Holefish": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Holefish": 1
+      }
+    },
+    "Cooked Hoopfish": {
+      "name": "Cooked Hoopfish",
+      "raw": false,
+      "recipe": {
+        "Hoopfish": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Hoopfish": 1
+      }
+    },
+    "Cooked Hoverfish": {
+      "name": "Cooked Hoverfish",
+      "raw": false,
+      "recipe": {
+        "Hoverfish": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Hoverfish": 1
+      }
+    },
+    "Cooked Magmarang": {
+      "name": "Cooked Magmarang",
+      "raw": false,
+      "recipe": {
+        "Magmarang": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Magmarang": 1
+      }
+    },
+    "Cooked Red Eyeye": {
+      "name": "Cooked Red Eyeye",
+      "raw": false,
+      "recipe": {
+        "Red Eyeye": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Red Eyeye": 1
+      }
+    },
+    "Cooked Oculus": {
+      "name": "Cooked Oculus",
+      "raw": false,
+      "recipe": {
+        "Oculus": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Oculus": 1
+      }
+    },
+    "Cooked Peeper": {
+      "name": "Cooked Peeper",
+      "raw": false,
+      "recipe": {
+        "Peeper": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Peeper": 1
+      }
+    },
+    "Cooked Reginald": {
+      "name": "Cooked Reginald",
+      "raw": false,
+      "recipe": {
+        "Reginald": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Reginald": 1
+      }
+    },
+    "Cooked Spadefish": {
+      "name": "Cooked Spadefish",
+      "raw": false,
+      "recipe": {
+        "Spadefish": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Spadefish Egg": 1
+      }
+    },
+    "Cooked Spinefish": {
+      "name": "Cooked Spinefish",
+      "raw": false,
+      "recipe": {
+        "Spinefish": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Spinefish": 1
+      }
+    },
+    "Copper Wire": {
+      "name": "Copper Wire",
+      "raw": false,
+      "recipe": {
+        "Copper Ore": 2
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 2
+      }
+    },
+    "Cured Bladderfish": {
+      "name": "Cured Bladderfish",
+      "raw": false,
+      "recipe": {
+        "Bladderfish": 1,
+        "Salt Deposit": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Bladderfish": 1,
+        "Salt Deposit": 1
+      }
+    },
+    "Cured Boomerang": {
+      "name": "Cured Boomerang",
+      "raw": false,
+      "recipe": {
+        "Boomerang": 1,
+        "Salt Deposit": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Boomerang": 1,
+        "Salt Deposit": 1
+      }
+    },
+    "Cured Eyeye": {
+      "name": "Cured Eyeye",
+      "raw": false,
+      "recipe": {
+        "Eyeye": 1,
+        "Salt Deposit": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Eyeye": 1,
+        "Salt Deposit": 1
+      }
+    },
+    "Cured Garryfish": {
+      "name": "Cured Garryfish",
+      "raw": false,
+      "recipe": {
+        "Garryfish": 1,
+        "Salt Deposit": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Garryfish": 1,
+        "Salt Deposit": 1
+      }
+    },
+    "Cured Holefish": {
+      "name": "Cured Holefish",
+      "raw": false,
+      "recipe": {
+        "Holefish": 1,
+        "Salt Deposit": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Holefish": 1,
+        "Salt Deposit": 1
+      }
+    },
+    "Cured Hoopfish": {
+      "name": "Cured Hoopfish",
+      "raw": false,
+      "recipe": {
+        "Hoopfish": 1,
+        "Salt Deposit": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Hoopfish": 1,
+        "Salt Deposit": 1
+      }
+    },
+    "Cured Hoverfish": {
+      "name": "Cured Hoverfish",
+      "raw": false,
+      "recipe": {
+        "Hoverfish": 1,
+        "Salt Deposit": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Hoverfish": 1,
+        "Salt Deposit": 1
+      }
+    },
+    "Cured Magmarang": {
+      "name": "Cured Magmarang",
+      "raw": false,
+      "recipe": {
+        "Magmarang": 1,
+        "Salt Deposit": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Magmarang": 1,
+        "Salt Deposit": 1
+      }
+    },
+    "Cured Red Eyeye": {
+      "name": "Cured Red Eyeye",
+      "raw": false,
+      "recipe": {
+        "Red Eyeye": 1,
+        "Salt Deposit": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Red Eyeye": 1,
+        "Salt Deposit": 1
+      }
+    },
+    "Cured Oculus": {
+      "name": "Cured Oculus",
+      "raw": false,
+      "recipe": {
+        "Oculus": 1,
+        "Salt Deposit": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Oculus": 1,
+        "Salt Deposit": 1
+      }
+    },
+    "Cured Peeper": {
+      "name": "Cured Peeper",
+      "raw": false,
+      "recipe": {
+        "Peeper": 1,
+        "Salt Deposit": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Peeper": 1,
+        "Salt Deposit": 1
+      }
+    },
+    "Cured Reginald": {
+      "name": "Cured Reginald",
+      "raw": false,
+      "recipe": {
+        "Reginald": 1,
+        "Salt Deposit": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Reginald": 1,
+        "Salt Deposit": 1
+      }
+    },
+    "Cured Spadefish": {
+      "name": "Cured Spadefish",
+      "raw": false,
+      "recipe": {
+        "Spadefish": 1,
+        "Salt Deposit": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Salt Deposit": 1,
+        "Spadefish Egg": 1
+      }
+    },
+    "Cured Spinefish": {
+      "name": "Cured Spinefish",
+      "raw": false,
+      "recipe": {
+        "Spinefish": 1,
+        "Salt Deposit": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Salt Deposit": 1,
+        "Spinefish": 1
+      }
+    },
+    "Depleted Reactor Rod": {
+      "name": "Depleted Reactor Rod",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Disinfected Water": {
+      "name": "Disinfected Water",
+      "raw": false,
+      "recipe": {
+        "Bleach": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Coral Tube Sample": 1,
+        "Salt Deposit": 1
+      }
+    },
+    "Pathfinder Tool": {
+      "name": "Pathfinder Tool",
+      "raw": false,
+      "recipe": {
+        "Creepvine Seed Cluster": 2,
+        "Copper Wire": 1,
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Creepvine Seed Cluster": 2,
+        "Metal Salvage": 1
+      }
+    },
+    "High Capacity O\u2082 Tank": {
+      "name": "High Capacity O\u2082 Tank",
+      "raw": false,
+      "recipe": {
+        "Standard O\u2082 Tank": 1,
+        "Glass": 2,
+        "Titanium": 4,
+        "Silver Ore": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 7,
+        "Quartz": 4,
+        "Silver Ore": 1
+      }
+    },
+    "Enameled Glass": {
+      "name": "Enameled Glass",
+      "raw": false,
+      "recipe": {
+        "Stalker Teeth": 1,
+        "Glass": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Quartz": 2,
+        "Stalker Teeth": 1
+      }
+    },
+    "Fiber Mesh": {
+      "name": "Fiber Mesh",
+      "raw": false,
+      "recipe": {
+        "Creepvine Sample": 2
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Creepvine Sample": 2
+      }
+    },
+    "Filtered Water": {
+      "name": "Filtered Water",
+      "raw": false,
+      "recipe": {
+        "Bladderfish": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Bladderfish": 1
+      }
+    },
+    "Fins": {
+      "name": "Fins",
+      "raw": false,
+      "recipe": {
+        "Silicone Rubber": 2
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Creepvine Seed Cluster": 2
+      }
+    },
+    "Fire Extinguisher": {
+      "name": "Fire Extinguisher",
+      "raw": false,
+      "recipe": {
+        "Titanium": 3
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 3
+      }
+    },
+    "First Aid Kit": {
+      "name": "First Aid Kit",
+      "raw": false,
+      "recipe": {
+        "Fiber Mesh": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Creepvine Sample": 2
+      }
+    },
+    "Flare": {
+      "name": "Flare",
+      "raw": false,
+      "recipe": {
+        "Cave Sulfur": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Cave Sulfur": 1
+      }
+    },
+    "Flashlight": {
+      "name": "Flashlight",
+      "raw": false,
+      "recipe": {
+        "Battery": 1,
+        "Glass": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Acid Mushroom": 2,
+        "Copper Ore": 1,
+        "Quartz": 2
+      }
+    },
+    "Gas Torpedo": {
+      "name": "Gas Torpedo",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1,
+        "Gas Pod": 1
+      },
+      "acquired_from": [
+        "Upgrade Console"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Gas Pod": 1,
+        "Metal Salvage": 1
+      }
+    },
+    "Glass": {
+      "name": "Glass",
+      "raw": false,
+      "recipe": {
+        "Quartz": 2
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Quartz": 2
+      }
+    },
+    "Grav Trap": {
+      "name": "Grav Trap",
+      "raw": false,
+      "recipe": {
+        "Battery": 1,
+        "Copper Ore": 1,
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Acid Mushroom": 2,
+        "Copper Ore": 2,
+        "Metal Salvage": 1
+      }
+    },
+    "Hatching Enzymes": {
+      "name": "Hatching Enzymes",
+      "raw": false,
+      "recipe": {
+        "Eye Stalk Seed": 1,
+        "Fungal Sample": 1,
+        "Ghost Weed Seed": 1,
+        "Sea Crown Seed": 1,
+        "Bulb Bush Sample": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Bulb Bush Sample": 1,
+        "Eye Stalk Seed": 1,
+        "Fungal Sample": 1,
+        "Ghost Weed Seed": 1,
+        "Sea Crown Seed": 1
+      }
+    },
+    "Thermoblade": {
+      "name": "Thermoblade",
+      "raw": false,
+      "recipe": {
+        "Survival Knife": 1,
+        "Battery": 1
+      },
+      "acquired_from": [
+        "Modification Station"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Acid Mushroom": 2,
+        "Copper Ore": 1,
+        "Creepvine Seed Cluster": 1,
+        "Metal Salvage": 1
+      }
+    },
+    "Ultra High Capacity Tank": {
+      "name": "Ultra High Capacity Tank",
+      "raw": false,
+      "recipe": {
+        "High Capacity O\u2082 Tank": 1,
+        "Lithium": 4
+      },
+      "acquired_from": [
+        "Modification Station"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Lithium": 4,
+        "Metal Salvage": 7,
+        "Quartz": 4,
+        "Silver Ore": 1
+      }
+    },
+    "Hydrochloric Acid": {
+      "name": "Hydrochloric Acid",
+      "raw": false,
+      "recipe": {
+        "Deep Shroom": 3,
+        "Salt Deposit": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Deep Shroom": 3,
+        "Salt Deposit": 1
+      }
+    },
+    "Survival Knife": {
+      "name": "Survival Knife",
+      "raw": false,
+      "recipe": {
+        "Silicone Rubber": 1,
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Creepvine Seed Cluster": 1,
+        "Metal Salvage": 1
+      }
+    },
+    "Laser Cutter": {
+      "name": "Laser Cutter",
+      "raw": false,
+      "recipe": {
+        "Diamond": 2,
+        "Battery": 1,
+        "Titanium": 1,
+        "Cave Sulfur": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Acid Mushroom": 2,
+        "Cave Sulfur": 1,
+        "Copper Ore": 1,
+        "Diamond": 2,
+        "Metal Salvage": 1
+      }
+    },
+    "Light Stick": {
+      "name": "Light Stick",
+      "raw": false,
+      "recipe": {
+        "Battery": 1,
+        "Titanium": 1,
+        "Glass": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Acid Mushroom": 2,
+        "Copper Ore": 1,
+        "Metal Salvage": 1,
+        "Quartz": 2
+      }
+    },
+    "Lubricant": {
+      "name": "Lubricant",
+      "raw": false,
+      "recipe": {
+        "Creepvine Seed Cluster": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Creepvine Seed Cluster": 1
+      }
+    },
+    "Camera Drone": {
+      "name": "Camera Drone",
+      "raw": false,
+      "recipe": {
+        "Computer Chip": 1,
+        "Battery": 1,
+        "Glass": 1,
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Scanner Room"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Acid Mushroom": 2,
+        "Copper Ore": 3,
+        "Gold": 1,
+        "Metal Salvage": 1,
+        "Quartz": 2,
+        "Table Coral Sample": 2
+      }
+    },
+    "Scanner Room HUD Chip": {
+      "name": "Scanner Room HUD Chip",
+      "raw": false,
+      "recipe": {
+        "Computer Chip": 1,
+        "Magnetite": 1
+      },
+      "acquired_from": [
+        "Scanner Room"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Gold": 1,
+        "Magnetite": 1,
+        "Table Coral Sample": 2
+      }
+    },
+    "Scanner Room Range Upgrade": {
+      "name": "Scanner Room Range Upgrade",
+      "raw": false,
+      "recipe": {
+        "Copper Ore": 1,
+        "Magnetite": 1
+      },
+      "acquired_from": [
+        "Scanner Room"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 1,
+        "Magnetite": 1
+      }
+    },
+    "Scanner Room Speed Upgrade": {
+      "name": "Scanner Room Speed Upgrade",
+      "raw": false,
+      "recipe": {
+        "Silver Ore": 1,
+        "Gold": 1
+      },
+      "acquired_from": [
+        "Scanner Room"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Gold": 1,
+        "Silver Ore": 1
+      }
+    },
+    "Pipe": {
+      "name": "Pipe",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 2
+      }
+    },
+    "Floating Air Pump": {
+      "name": "Floating Air Pump",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 2
+      }
+    },
+    "Plasteel Ingot": {
+      "name": "Plasteel Ingot",
+      "raw": false,
+      "recipe": {
+        "Titanium Ingot": 1,
+        "Lithium": 2
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Lithium": 2,
+        "Metal Salvage": 10
+      }
+    },
+    "Lightweight High Capacity Tank": {
+      "name": "Lightweight High Capacity Tank",
+      "raw": false,
+      "recipe": {
+        "High Capacity O\u2082 Tank": 1,
+        "Plasteel Ingot": 1
+      },
+      "acquired_from": [
+        "Modification Station"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Lithium": 2,
+        "Metal Salvage": 17,
+        "Quartz": 4,
+        "Silver Ore": 1
+      }
+    },
+    "Polyaniline": {
+      "name": "Polyaniline",
+      "raw": false,
+      "recipe": {
+        "Gold": 1,
+        "Hydrochloric Acid": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Deep Shroom": 3,
+        "Gold": 1,
+        "Salt Deposit": 1
+      }
+    },
+    "Power Cell": {
+      "name": "Power Cell",
+      "raw": false,
+      "recipe": {
+        "Battery": 2,
+        "Silicone Rubber": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Acid Mushroom": 4,
+        "Copper Ore": 2,
+        "Creepvine Seed Cluster": 1
+      }
+    },
+    "Cyclops Engine Efficiency Module": {
+      "name": "Cyclops Engine Efficiency Module",
+      "raw": false,
+      "recipe": {
+        "Computer Chip": 1,
+        "Benzene": 1,
+        "Polyaniline": 1
+      },
+      "acquired_from": [
+        "Cyclops Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Blood Oil": 3,
+        "Copper Ore": 2,
+        "Deep Shroom": 3,
+        "Gold": 2,
+        "Salt Deposit": 1,
+        "Table Coral Sample": 2
+      }
+    },
+    "Ion Battery": {
+      "name": "Ion Battery",
+      "raw": false,
+      "recipe": {
+        "Ion Cube": 1,
+        "Gold": 1,
+        "Silver Ore": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Gold": 1,
+        "Ion Cube": 1,
+        "Silver Ore": 1
+      }
+    },
+    "Ion Power Cell": {
+      "name": "Ion Power Cell",
+      "raw": false,
+      "recipe": {
+        "Ion Battery": 2,
+        "Silicone Rubber": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Creepvine Seed Cluster": 1,
+        "Gold": 2,
+        "Ion Cube": 2,
+        "Silver Ore": 2
+      }
+    },
+    "Blue Tablet": {
+      "name": "Blue Tablet",
+      "raw": false,
+      "recipe": {
+        "Ion Cube": 1,
+        "Kyanite": 2
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Ion Cube": 1,
+        "Kyanite": 2
+      }
+    },
+    "Orange Tablet": {
+      "name": "Orange Tablet",
+      "raw": false,
+      "recipe": {
+        "Ion Cube": 1,
+        "Nickel Ore": 2
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Ion Cube": 1,
+        "Nickel Ore": 2
+      }
+    },
+    "Purple Tablet": {
+      "name": "Purple Tablet",
+      "raw": false,
+      "recipe": {
+        "Ion Cube": 1,
+        "Diamond": 2
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Diamond": 2,
+        "Ion Cube": 1
+      }
+    },
+    "Propulsion Cannon": {
+      "name": "Propulsion Cannon",
+      "raw": false,
+      "recipe": {
+        "Wiring Kit": 1,
+        "Battery": 1,
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Acid Mushroom": 2,
+        "Copper Ore": 1,
+        "Metal Salvage": 1,
+        "Silver Ore": 2
+      }
+    },
+    "Radiation Gloves": {
+      "name": "Radiation Gloves",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Radiation Helmet": {
+      "name": "Radiation Helmet",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Radiation Suit": {
+      "name": "Radiation Suit",
+      "raw": false,
+      "recipe": {
+        "Fiber Mesh": 2,
+        "Lead": 2
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Creepvine Sample": 4,
+        "Lead": 2
+      }
+    },
+    "Reactor Rod": {
+      "name": "Reactor Rod",
+      "raw": false,
+      "recipe": {
+        "Uraninite Crystal": 3,
+        "Lead": 1,
+        "Titanium": 1,
+        "Glass": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Lead": 1,
+        "Metal Salvage": 1,
+        "Quartz": 2,
+        "Uraninite Crystal": 3
+      }
+    },
+    "Rebreather": {
+      "name": "Rebreather",
+      "raw": false,
+      "recipe": {
+        "Wiring Kit": 1,
+        "Fiber Mesh": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Creepvine Sample": 2,
+        "Silver Ore": 2
+      }
+    },
+    "Reinforced Dive Suit": {
+      "name": "Reinforced Dive Suit",
+      "raw": false,
+      "recipe": {
+        "Synthetic Fibers": 1,
+        "Diamond": 2,
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Blood Oil": 3,
+        "Creepvine Sample": 2,
+        "Diamond": 2,
+        "Metal Salvage": 2
+      }
+    },
+    "Reinforced Gloves": {
+      "name": "Reinforced Gloves",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Repulsion Cannon": {
+      "name": "Repulsion Cannon",
+      "raw": false,
+      "recipe": {
+        "Propulsion Cannon": 1,
+        "Computer Chip": 1,
+        "Magnetite": 2
+      },
+      "acquired_from": [
+        "Modification Station"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Acid Mushroom": 2,
+        "Copper Ore": 3,
+        "Gold": 1,
+        "Magnetite": 2,
+        "Metal Salvage": 1,
+        "Silver Ore": 2,
+        "Table Coral Sample": 2
+      }
+    },
+    "Salt Deposit": {
+      "name": "Salt Deposit",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Seabed",
+        "Large Resource Deposits",
+        "Purple Pinecone",
+        "Water Filtration Machine"
+      ],
+      "biomes": [
+        "Bulb Zone",
+        "Crag Field",
+        "Crash Zone",
+        "Crash Zone Mesas",
+        "Dunes",
+        "Grassy Plateaus",
+        "Grassy Plateaus Caves",
+        "Grand Reef",
+        "Kelp Forest",
+        "Mountain Island",
+        "Mountains Caves",
+        "Mushroom Forest",
+        "Northern Blood Kelp Zone",
+        "Sea Treader's Path",
+        "Sparse Reef",
+        "Underwater Islands"
+      ],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Scanner": {
+      "name": "Scanner",
+      "raw": false,
+      "recipe": {
+        "Battery": 1,
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Acid Mushroom": 2,
+        "Copper Ore": 1,
+        "Metal Salvage": 1
+      }
+    },
+    "Seaglide": {
+      "name": "Seaglide",
+      "raw": false,
+      "recipe": {
+        "Battery": 1,
+        "Lubricant": 1,
+        "Copper Wire": 1,
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Acid Mushroom": 2,
+        "Copper Ore": 3,
+        "Creepvine Seed Cluster": 1,
+        "Metal Salvage": 1
+      }
+    },
+    "Silicone Rubber": {
+      "name": "Silicone Rubber",
+      "raw": false,
+      "recipe": {
+        "Creepvine Seed Cluster": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Creepvine Seed Cluster": 1
+      }
+    },
+    "Waterproof Locker": {
+      "name": "Waterproof Locker",
+      "raw": false,
+      "recipe": {
+        "Titanium": 4
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 4
+      }
+    },
+    "Stasis Rifle": {
+      "name": "Stasis Rifle",
+      "raw": false,
+      "recipe": {
+        "Computer Chip": 1,
+        "Battery": 1,
+        "Titanium": 1,
+        "Magnetite": 2
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Acid Mushroom": 2,
+        "Copper Ore": 3,
+        "Gold": 1,
+        "Magnetite": 2,
+        "Metal Salvage": 1,
+        "Table Coral Sample": 2
+      }
+    },
+    "Stillsuit": {
+      "name": "Stillsuit",
+      "raw": false,
+      "recipe": {
+        "Synthetic Fibers": 1,
+        "Aerogel": 1,
+        "Copper Wire": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Blood Oil": 3,
+        "Copper Ore": 2,
+        "Creepvine Sample": 2,
+        "Gel Sack": 1,
+        "Ruby": 1
+      }
+    },
+    "Reclaimed Water": {
+      "name": "Reclaimed Water",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Swim Charge Fins": {
+      "name": "Swim Charge Fins",
+      "raw": false,
+      "recipe": {
+        "Fins": 1,
+        "Polyaniline": 1,
+        "Wiring Kit": 1
+      },
+      "acquired_from": [
+        "Modification Station"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Creepvine Seed Cluster": 2,
+        "Deep Shroom": 3,
+        "Gold": 1,
+        "Salt Deposit": 1,
+        "Silver Ore": 2
+      }
+    },
+    "Standard O\u2082 Tank": {
+      "name": "Standard O\u2082 Tank",
+      "raw": false,
+      "recipe": {
+        "Titanium": 3
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 3
+      }
+    },
+    "Titanium": {
+      "name": "Titanium",
+      "raw": false,
+      "recipe": {
+        "Metal Salvage": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1
+      }
+    },
+    "Titanium Ingot": {
+      "name": "Titanium Ingot",
+      "raw": false,
+      "recipe": {
+        "Titanium": 10
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 10
+      }
+    },
+    "Ultra Glide Fins": {
+      "name": "Ultra Glide Fins",
+      "raw": false,
+      "recipe": {
+        "Fins": 1,
+        "Silicone Rubber": 2,
+        "Titanium": 1,
+        "Lithium": 1
+      },
+      "acquired_from": [
+        "Modification Station"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Creepvine Seed Cluster": 4,
+        "Lithium": 1,
+        "Metal Salvage": 1
+      }
+    },
+    "Hull Reinforcement": {
+      "name": "Hull Reinforcement",
+      "raw": false,
+      "recipe": {
+        "Titanium": 3,
+        "Lithium": 1,
+        "Diamond": 4
+      },
+      "acquired_from": [
+        "Upgrade Console"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Diamond": 4,
+        "Lithium": 1,
+        "Metal Salvage": 3
+      }
+    },
+    "Seamoth Depth Module MK1": {
+      "name": "Seamoth Depth Module MK1",
+      "raw": false,
+      "recipe": {
+        "Titanium Ingot": 1,
+        "Glass": 2
+      },
+      "acquired_from": [
+        "Upgrade Console"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 10,
+        "Quartz": 4
+      }
+    },
+    "Seamoth Depth Module MK2": {
+      "name": "Seamoth Depth Module MK2",
+      "raw": false,
+      "recipe": {
+        "Seamoth Depth Module MK1": 1,
+        "Plasteel Ingot": 1,
+        "Magnetite": 2,
+        "Enameled Glass": 1
+      },
+      "acquired_from": [
+        "Modification Station"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Lithium": 2,
+        "Magnetite": 2,
+        "Metal Salvage": 20,
+        "Quartz": 6,
+        "Stalker Teeth": 1
+      }
+    },
+    "Seamoth Depth Module MK3": {
+      "name": "Seamoth Depth Module MK3",
+      "raw": false,
+      "recipe": {
+        "Seamoth Depth Module MK3": 1,
+        "Plasteel Ingot": 1,
+        "Ruby": 3
+      },
+      "acquired_from": [
+        "Modification Station"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Lithium": 2,
+        "Metal Salvage": 10,
+        "Ruby": 3,
+        "Seamoth Depth Module MK3": 1
+      }
+    },
+    "Engine Efficiency Module": {
+      "name": "Engine Efficiency Module",
+      "raw": false,
+      "recipe": {
+        "Computer Chip": 1,
+        "Polyaniline": 1
+      },
+      "acquired_from": [
+        "Upgrade Console"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Deep Shroom": 3,
+        "Gold": 2,
+        "Salt Deposit": 1,
+        "Table Coral Sample": 2
+      }
+    },
+    "Storage Module": {
+      "name": "Storage Module",
+      "raw": false,
+      "recipe": {
+        "Titanium": 3,
+        "Lithium": 1
+      },
+      "acquired_from": [
+        "Upgrade Console"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Lithium": 1,
+        "Metal Salvage": 3
+      }
+    },
+    "Vortex Torpedo": {
+      "name": "Vortex Torpedo",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1,
+        "Magnetite": 1
+      },
+      "acquired_from": [
+        "Upgrade Console"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Magnetite": 1,
+        "Metal Salvage": 1
+      }
+    },
+    "Repair Tool": {
+      "name": "Repair Tool",
+      "raw": false,
+      "recipe": {
+        "Silicone Rubber": 1,
+        "Cave Sulfur": 1,
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Cave Sulfur": 1,
+        "Creepvine Seed Cluster": 1,
+        "Metal Salvage": 1
+      }
+    },
+    "Wiring Kit": {
+      "name": "Wiring Kit",
+      "raw": false,
+      "recipe": {
+        "Silver Ore": 2
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Silver Ore": 2
+      }
+    },
+    "I Compartment": {
+      "name": "I Compartment",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 2
+      }
+    },
+    "L Compartment": {
+      "name": "L Compartment",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 2
+      }
+    },
+    "T Compartment": {
+      "name": "T Compartment",
+      "raw": false,
+      "recipe": {
+        "Titanium": 3
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 3
+      }
+    },
+    "X Compartment": {
+      "name": "X Compartment",
+      "raw": false,
+      "recipe": {
+        "Titanium": 3
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 3
+      }
+    },
+    "Foundation": {
+      "name": "Foundation",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2,
+        "Lead": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Lead": 2,
+        "Metal Salvage": 2
+      }
+    },
+    "Glass Compartment": {
+      "name": "Glass Compartment",
+      "raw": false,
+      "recipe": {
+        "Glass": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Quartz": 4
+      }
+    },
+    "L Glass Compartment": {
+      "name": "L Glass Compartment",
+      "raw": false,
+      "recipe": {
+        "Glass": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Quartz": 4
+      }
+    },
+    "Hatch": {
+      "name": "Hatch",
+      "raw": false,
+      "recipe": {
+        "Quartz": 1,
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 2,
+        "Quartz": 1
+      }
+    },
+    "Multipurpose Room": {
+      "name": "Multipurpose Room",
+      "raw": false,
+      "recipe": {
+        "Titanium": 6
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 6
+      }
+    },
+    "Moonpool": {
+      "name": "Moonpool",
+      "raw": false,
+      "recipe": {
+        "Titanium Ingot": 2,
+        "Lubricant": 1,
+        "Lead": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Creepvine Seed Cluster": 1,
+        "Lead": 2,
+        "Metal Salvage": 20
+      }
+    },
+    "Observatory": {
+      "name": "Observatory",
+      "raw": false,
+      "recipe": {
+        "Enameled Glass": 2,
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1,
+        "Quartz": 4,
+        "Stalker Teeth": 2
+      }
+    },
+    "Reinforcement": {
+      "name": "Reinforcement",
+      "raw": false,
+      "recipe": {
+        "Lithium": 1,
+        "Titanium": 3
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Lithium": 1,
+        "Metal Salvage": 3
+      }
+    },
+    "Scanner Room": {
+      "name": "Scanner Room",
+      "raw": false,
+      "recipe": {
+        "Titanium": 5,
+        "Copper Ore": 2,
+        "Gold": 1,
+        "Table Coral Sample": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Gold": 1,
+        "Metal Salvage": 5,
+        "Table Coral Sample": 1
+      }
+    },
+    "Vertical Connector": {
+      "name": "Vertical Connector",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 2
+      }
+    },
+    "Window": {
+      "name": "Window",
+      "raw": false,
+      "recipe": {
+        "Glass": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Quartz": 2
+      }
+    },
+    "Base-attached Air Pump": {
+      "name": "Base-attached Air Pump",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 2
+      }
+    },
+    "Exterior Growbed": {
+      "name": "Exterior Growbed",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 2
+      }
+    },
+    "Floodlight": {
+      "name": "Floodlight",
+      "raw": false,
+      "recipe": {
+        "Glass": 1,
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1,
+        "Quartz": 2
+      }
+    },
+    "Power Transmitter": {
+      "name": "Power Transmitter",
+      "raw": false,
+      "recipe": {
+        "Gold": 1,
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Gold": 1,
+        "Metal Salvage": 1
+      }
+    },
+    "Solar Panel": {
+      "name": "Solar Panel",
+      "raw": false,
+      "recipe": {
+        "Quartz": 2,
+        "Titanium": 2,
+        "Copper Ore": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 1,
+        "Metal Salvage": 2,
+        "Quartz": 2
+      }
+    },
+    "Spotlight": {
+      "name": "Spotlight",
+      "raw": false,
+      "recipe": {
+        "Glass": 1,
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 2,
+        "Quartz": 2
+      }
+    },
+    "Thermal Plant": {
+      "name": "Thermal Plant",
+      "raw": false,
+      "recipe": {
+        "Titanium": 5,
+        "Magnetite": 2,
+        "Aerogel": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Gel Sack": 1,
+        "Magnetite": 2,
+        "Metal Salvage": 5,
+        "Ruby": 1
+      }
+    },
+    "Alien Containment": {
+      "name": "Alien Containment",
+      "raw": false,
+      "recipe": {
+        "Glass": 5,
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 2,
+        "Quartz": 10
+      }
+    },
+    "Bioreactor": {
+      "name": "Bioreactor",
+      "raw": false,
+      "recipe": {
+        "Titanium": 3,
+        "Wiring Kit": 1,
+        "Lubricant": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Creepvine Seed Cluster": 1,
+        "Metal Salvage": 3,
+        "Silver Ore": 2
+      }
+    },
+    "Bulkhead": {
+      "name": "Bulkhead",
+      "raw": false,
+      "recipe": {
+        "Titanium": 3,
+        "Silicone Rubber": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Creepvine Seed Cluster": 1,
+        "Metal Salvage": 3
+      }
+    },
+    "Ladder": {
+      "name": "Ladder",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 2
+      }
+    },
+    "Nuclear Reactor": {
+      "name": "Nuclear Reactor",
+      "raw": false,
+      "recipe": {
+        "Plasteel Ingot": 1,
+        "Advanced Wiring Kit": 1,
+        "Lead": 3
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Gold": 3,
+        "Lead": 3,
+        "Lithium": 2,
+        "Metal Salvage": 10,
+        "Silver Ore": 2,
+        "Table Coral Sample": 2
+      }
+    },
+    "Water Filtration Machine": {
+      "name": "Water Filtration Machine",
+      "raw": false,
+      "recipe": {
+        "Titanium": 3,
+        "Copper Wire": 1,
+        "Aerogel": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Gel Sack": 1,
+        "Metal Salvage": 3,
+        "Ruby": 1
+      }
+    },
+    "Aquarium": {
+      "name": "Aquarium",
+      "raw": false,
+      "recipe": {
+        "Glass": 2,
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1,
+        "Quartz": 4
+      }
+    },
+    "Basic Plant Pot": {
+      "name": "Basic Plant Pot",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 2
+      }
+    },
+    "Battery Charger": {
+      "name": "Battery Charger",
+      "raw": false,
+      "recipe": {
+        "Wiring Kit": 1,
+        "Copper Wire": 1,
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Metal Salvage": 1,
+        "Silver Ore": 2
+      }
+    },
+    "Chic Plant Pot": {
+      "name": "Chic Plant Pot",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 2
+      }
+    },
+    "Composite Plant Pot": {
+      "name": "Composite Plant Pot",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 2
+      }
+    },
+    "Indoor Growbed": {
+      "name": "Indoor Growbed",
+      "raw": false,
+      "recipe": {
+        "Titanium": 4
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 4
+      }
+    },
+    "Locker": {
+      "name": "Locker",
+      "raw": false,
+      "recipe": {
+        "Quartz": 1,
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 2,
+        "Quartz": 1
+      }
+    },
+    "Medical Kit Fabricator": {
+      "name": "Medical Kit Fabricator",
+      "raw": false,
+      "recipe": {
+        "Computer Chip": 1,
+        "Fiber Mesh": 1,
+        "Silver Ore": 1,
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Creepvine Sample": 2,
+        "Gold": 1,
+        "Metal Salvage": 1,
+        "Silver Ore": 1,
+        "Table Coral Sample": 2
+      }
+    },
+    "Plant Shelf": {
+      "name": "Plant Shelf",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1
+      }
+    },
+    "Power Cell Charger": {
+      "name": "Power Cell Charger",
+      "raw": false,
+      "recipe": {
+        "Advanced Wiring Kit": 1,
+        "Ruby": 2,
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Gold": 3,
+        "Metal Salvage": 2,
+        "Ruby": 2,
+        "Silver Ore": 2,
+        "Table Coral Sample": 2
+      }
+    },
+    "Radio": {
+      "name": "Radio",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1,
+        "Copper Ore": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 1,
+        "Metal Salvage": 1
+      }
+    },
+    "Wall Locker": {
+      "name": "Wall Locker",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 2
+      }
+    },
+    "Bar Table": {
+      "name": "Bar Table",
+      "raw": false,
+      "recipe": {
+        "Glass": 1,
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1,
+        "Quartz": 2
+      }
+    },
+    "Basic Double Bed": {
+      "name": "Basic Double Bed",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2,
+        "Fiber Mesh": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Creepvine Sample": 2,
+        "Metal Salvage": 2
+      }
+    },
+    "Bench": {
+      "name": "Bench",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 2
+      }
+    },
+    "Command Chair": {
+      "name": "Command Chair",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1
+      }
+    },
+    "Counter": {
+      "name": "Counter",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 2
+      }
+    },
+    "Desk": {
+      "name": "Desk",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1
+      }
+    },
+    "Nuclear Waste Disposal": {
+      "name": "Nuclear Waste Disposal",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 2
+      }
+    },
+    "Office Chair": {
+      "name": "Office Chair",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1
+      }
+    },
+    "Picture Frame": {
+      "name": "Picture Frame",
+      "raw": false,
+      "recipe": {
+        "Copper Wire": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 2
+      }
+    },
+    "Quilted Double Bed": {
+      "name": "Quilted Double Bed",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2,
+        "Fiber Mesh": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Creepvine Sample": 2,
+        "Metal Salvage": 2
+      }
+    },
+    "Sign": {
+      "name": "Sign",
+      "raw": false,
+      "recipe": {
+        "Copper Wire": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 2
+      }
+    },
+    "Single Bed": {
+      "name": "Single Bed",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1,
+        "Fiber Mesh": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Creepvine Sample": 2,
+        "Metal Salvage": 1
+      }
+    },
+    "Single Wall Shelf": {
+      "name": "Single Wall Shelf",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1
+      }
+    },
+    "Swivel Chair": {
+      "name": "Swivel Chair",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1
+      }
+    },
+    "Trash Can": {
+      "name": "Trash Can",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 2
+      }
+    },
+    "Vending Machine": {
+      "name": "Vending Machine",
+      "raw": false,
+      "recipe": {
+        "Glass": 1,
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 2,
+        "Quartz": 2
+      }
+    },
+    "Wall Planter": {
+      "name": "Wall Planter",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1
+      }
+    },
+    "Wall Shelves": {
+      "name": "Wall Shelves",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 2
+      }
+    },
+    "An Unusual Doll": {
+      "name": "An Unusual Doll",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1,
+        "Glass": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1,
+        "Quartz": 2
+      }
+    },
+    "An Unusual Doll 2": {
+      "name": "An Unusual Doll 2",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1,
+        "Glass": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1,
+        "Quartz": 2
+      }
+    },
+    "Jack's Septic Tank": {
+      "name": "Jack's Septic Tank",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1,
+        "Glass": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1,
+        "Quartz": 2
+      }
+    },
+    "Marla": {
+      "name": "Marla",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1,
+        "Glass": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1,
+        "Quartz": 2
+      }
+    },
+    "Bikeman Hull Plate": {
+      "name": "Bikeman Hull Plate",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1,
+        "Glass": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1,
+        "Quartz": 2
+      }
+    },
+    "Dev Test Item": {
+      "name": "Dev Test Item",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1,
+        "Glass": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1,
+        "Quartz": 2
+      }
+    },
+    "Diorama Hull Plate": {
+      "name": "Diorama Hull Plate",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1,
+        "Glass": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1,
+        "Quartz": 2
+      }
+    },
+    "Eat My Diction Hull Plate": {
+      "name": "Eat My Diction Hull Plate",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1,
+        "Glass": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1,
+        "Quartz": 2
+      }
+    },
+    "Gilathiss Hull Plate": {
+      "name": "Gilathiss Hull Plate",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1,
+        "Glass": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1,
+        "Quartz": 2
+      }
+    },
+    "Indie Game Promoter Hull Plate": {
+      "name": "Indie Game Promoter Hull Plate",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1,
+        "Glass": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1,
+        "Quartz": 2
+      }
+    },
+    "JackSepticEye Hull Plate": {
+      "name": "JackSepticEye Hull Plate",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1,
+        "Glass": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1,
+        "Quartz": 2
+      }
+    },
+    "LordMinion Hull Plate": {
+      "name": "LordMinion Hull Plate",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1,
+        "Glass": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1,
+        "Quartz": 2
+      }
+    },
+    "Markiplier Hull Plate": {
+      "name": "Markiplier Hull Plate",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1,
+        "Glass": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1,
+        "Quartz": 2
+      }
+    },
+    "Muyskerm Hull Plate": {
+      "name": "Muyskerm Hull Plate",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1,
+        "Glass": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1,
+        "Quartz": 2
+      }
+    },
+    "Special Hull Plate": {
+      "name": "Special Hull Plate",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1,
+        "Glass": 1
+      },
+      "acquired_from": [
+        "Habitat Builder"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 1,
+        "Quartz": 2
+      }
+    },
+    "Prawn Suit": {
+      "name": "Prawn Suit",
+      "raw": false,
+      "recipe": {
+        "Plasteel Ingot": 2,
+        "Aerogel": 2,
+        "Enameled Glass": 1,
+        "Diamond": 2,
+        "Lead": 2
+      },
+      "acquired_from": [
+        "Mobile Vehicle Bay"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Diamond": 2,
+        "Gel Sack": 2,
+        "Lead": 2,
+        "Lithium": 4,
+        "Metal Salvage": 20,
+        "Quartz": 2,
+        "Ruby": 2,
+        "Stalker Teeth": 1
+      }
+    },
+    "Seamoth": {
+      "name": "Seamoth",
+      "raw": false,
+      "recipe": {
+        "Titanium Ingot": 1,
+        "Power Cell": 1,
+        "Glass": 2,
+        "Lubricant": 1,
+        "Lead": 1
+      },
+      "acquired_from": [
+        "Mobile Vehicle Bay"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Acid Mushroom": 4,
+        "Copper Ore": 2,
+        "Creepvine Seed Cluster": 2,
+        "Lead": 1,
+        "Metal Salvage": 10,
+        "Quartz": 4
+      }
+    },
+    "Cyclops": {
+      "name": "Cyclops",
+      "raw": false,
+      "recipe": {
+        "Plasteel Ingot": 3,
+        "Enameled Glass": 3,
+        "Lubricant": 1,
+        "Advanced Wiring Kit": 1,
+        "Lead": 3
+      },
+      "acquired_from": [
+        "Mobile Vehicle Bay"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Creepvine Seed Cluster": 1,
+        "Gold": 3,
+        "Lead": 3,
+        "Lithium": 6,
+        "Metal Salvage": 30,
+        "Quartz": 6,
+        "Silver Ore": 2,
+        "Stalker Teeth": 3,
+        "Table Coral Sample": 2
+      }
+    },
+    "Creature Decoy": {
+      "name": "Creature Decoy",
+      "raw": false,
+      "recipe": {
+        "Titanium": 3,
+        "Wiring Kit": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Metal Salvage": 3,
+        "Silver Ore": 2
+      }
+    },
+    "Cyclops Decoy Tube Upgrade": {
+      "name": "Cyclops Decoy Tube Upgrade",
+      "raw": false,
+      "recipe": {
+        "Titanium": 3,
+        "Lithium": 2,
+        "Aerogel": 1
+      },
+      "acquired_from": [
+        "Cyclops Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Gel Sack": 1,
+        "Lithium": 2,
+        "Metal Salvage": 3,
+        "Ruby": 1
+      }
+    },
+    "Cyclops Fire Suppression System": {
+      "name": "Cyclops Fire Suppression System",
+      "raw": false,
+      "recipe": {
+        "Aerogel": 2,
+        "Crystalline Sulfur": 2
+      },
+      "acquired_from": [
+        "Cyclops Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Crystalline Sulfur": 2,
+        "Gel Sack": 2,
+        "Ruby": 2
+      }
+    },
+    "Cyclops Depth Module MK1": {
+      "name": "Cyclops Depth Module MK1",
+      "raw": false,
+      "recipe": {
+        "Plasteel Ingot": 1,
+        "Ruby": 3
+      },
+      "acquired_from": [
+        "Cyclops Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Lithium": 2,
+        "Metal Salvage": 10,
+        "Ruby": 3
+      }
+    },
+    "Cyclops Depth Module MK2": {
+      "name": "Cyclops Depth Module MK2",
+      "raw": false,
+      "recipe": {
+        "Cyclops Depth Module MK1": 1,
+        "Plasteel Ingot": 1,
+        "Nickel Ore": 3
+      },
+      "acquired_from": [
+        "Modification Station"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Lithium": 4,
+        "Metal Salvage": 20,
+        "Nickel Ore": 3,
+        "Ruby": 3
+      }
+    },
+    "Cyclops Depth Module MK3": {
+      "name": "Cyclops Depth Module MK3",
+      "raw": false,
+      "recipe": {
+        "Cyclops Depth Module MK2": 1,
+        "Plasteel Ingot": 1,
+        "Kyanite": 3
+      },
+      "acquired_from": [
+        "Modification Station"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Kyanite": 3,
+        "Lithium": 6,
+        "Metal Salvage": 30,
+        "Nickel Ore": 3,
+        "Ruby": 3
+      }
+    },
+    "Cyclops Docking Bay Repair Module": {
+      "name": "Cyclops Docking Bay Repair Module",
+      "raw": false,
+      "recipe": {
+        "Repair Tool": 1,
+        "Copper Wire": 1
+      },
+      "acquired_from": [
+        "Cyclops Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Cave Sulfur": 1,
+        "Copper Ore": 2,
+        "Creepvine Seed Cluster": 1,
+        "Metal Salvage": 1
+      }
+    },
+    "Cyclops Shield Generator": {
+      "name": "Cyclops Shield Generator",
+      "raw": false,
+      "recipe": {
+        "Advanced Wiring Kit": 1,
+        "Polyaniline": 1,
+        "Power Cell": 1
+      },
+      "acquired_from": [
+        "Cyclops Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Acid Mushroom": 4,
+        "Copper Ore": 4,
+        "Creepvine Seed Cluster": 1,
+        "Deep Shroom": 3,
+        "Gold": 4,
+        "Salt Deposit": 1,
+        "Silver Ore": 2,
+        "Table Coral Sample": 2
+      }
+    },
+    "Cyclops Sonar Upgrade": {
+      "name": "Cyclops Sonar Upgrade",
+      "raw": false,
+      "recipe": {
+        "Computer Chip": 1,
+        "Magnetite": 3
+      },
+      "acquired_from": [
+        "Cyclops Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Gold": 1,
+        "Magnetite": 3,
+        "Table Coral Sample": 2
+      }
+    },
+    "Cyclops Thermal Reactor Module": {
+      "name": "Cyclops Thermal Reactor Module",
+      "raw": false,
+      "recipe": {
+        "Polyaniline": 2,
+        "Kyanite": 4,
+        "Wiring Kit": 1
+      },
+      "acquired_from": [
+        "Cyclops Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Deep Shroom": 6,
+        "Gold": 2,
+        "Kyanite": 4,
+        "Salt Deposit": 2,
+        "Silver Ore": 2
+      }
+    },
+    "Prawn Suit Drill Arm": {
+      "name": "Prawn Suit Drill Arm",
+      "raw": false,
+      "recipe": {
+        "Titanium": 5,
+        "Lithium": 1,
+        "Diamond": 4
+      },
+      "acquired_from": [
+        "Upgrade Console"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Diamond": 4,
+        "Lithium": 1,
+        "Metal Salvage": 5
+      }
+    },
+    "Prawn Suit Grappling Arm": {
+      "name": "Prawn Suit Grappling Arm",
+      "raw": false,
+      "recipe": {
+        "Advanced Wiring Kit": 1,
+        "Titanium": 5,
+        "Lithium": 1,
+        "Benzene": 1
+      },
+      "acquired_from": [
+        "Upgrade Console"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Blood Oil": 3,
+        "Copper Ore": 2,
+        "Gold": 3,
+        "Lithium": 1,
+        "Metal Salvage": 5,
+        "Silver Ore": 2,
+        "Table Coral Sample": 2
+      }
+    },
+    "Prawn Suit Jump Jet Upgrade": {
+      "name": "Prawn Suit Jump Jet Upgrade",
+      "raw": false,
+      "recipe": {
+        "Nickel Ore": 2,
+        "Crystalline Sulfur": 3,
+        "Titanium": 5,
+        "Lithium": 1
+      },
+      "acquired_from": [
+        "Upgrade Console"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Crystalline Sulfur": 3,
+        "Lithium": 1,
+        "Metal Salvage": 5,
+        "Nickel Ore": 2
+      }
+    },
+    "Prawn Suit Depth Module MK1": {
+      "name": "Prawn Suit Depth Module MK1",
+      "raw": false,
+      "recipe": {
+        "Plasteel Ingot": 1,
+        "Nickel Ore": 3,
+        "Ruby": 2
+      },
+      "acquired_from": [
+        "Upgrade Console"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Lithium": 2,
+        "Metal Salvage": 10,
+        "Nickel Ore": 3,
+        "Ruby": 2
+      }
+    },
+    "Prawn Suit Depth Module MK2": {
+      "name": "Prawn Suit Depth Module MK2",
+      "raw": false,
+      "recipe": {
+        "Prawn Suit Depth Module MK1": 1,
+        "Titanium": 5,
+        "Lithium": 2,
+        "Kyanite": 3
+      },
+      "acquired_from": [
+        "Modification Station"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Kyanite": 3,
+        "Lithium": 4,
+        "Metal Salvage": 15,
+        "Nickel Ore": 3,
+        "Ruby": 2
+      }
+    },
+    "Prawn Suit Propulsion Cannon": {
+      "name": "Prawn Suit Propulsion Cannon",
+      "raw": false,
+      "recipe": {
+        "Computer Chip": 1,
+        "Titanium": 5,
+        "Lithium": 1,
+        "Magnetite": 2
+      },
+      "acquired_from": [
+        "Upgrade Console"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Gold": 1,
+        "Lithium": 1,
+        "Magnetite": 2,
+        "Metal Salvage": 5,
+        "Table Coral Sample": 2
+      }
+    },
+    "Prawn Suit Thermal Reactor": {
+      "name": "Prawn Suit Thermal Reactor",
+      "raw": false,
+      "recipe": {
+        "Kyanite": 2,
+        "Polyaniline": 2,
+        "Wiring Kit": 1
+      },
+      "acquired_from": [
+        "Upgrade Console"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Deep Shroom": 6,
+        "Gold": 2,
+        "Kyanite": 2,
+        "Salt Deposit": 2,
+        "Silver Ore": 2
+      }
+    },
+    "Prawn Suit Torpedo Arm": {
+      "name": "Prawn Suit Torpedo Arm",
+      "raw": false,
+      "recipe": {
+        "Titanium": 5,
+        "Lithium": 1,
+        "Aerogel": 1
+      },
+      "acquired_from": [
+        "Upgrade Console"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Gel Sack": 1,
+        "Lithium": 1,
+        "Metal Salvage": 5,
+        "Ruby": 1
+      }
+    },
+    "Neptune Gantry": {
+      "name": "Neptune Gantry",
+      "raw": false,
+      "recipe": {
+        "Plasteel Ingot": 1,
+        "Copper Wire": 1,
+        "Lubricant": 1
+      },
+      "acquired_from": [
+        "Neptune Rocket"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Creepvine Seed Cluster": 1,
+        "Lithium": 2,
+        "Metal Salvage": 10
+      }
+    },
+    "Neptune Boosters": {
+      "name": "Neptune Boosters",
+      "raw": false,
+      "recipe": {
+        "Plasteel Ingot": 1,
+        "Nickel Ore": 3,
+        "Aerogel": 2,
+        "Wiring Kit": 1
+      },
+      "acquired_from": [
+        "Neptune Rocket"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Gel Sack": 2,
+        "Lithium": 2,
+        "Metal Salvage": 10,
+        "Nickel Ore": 3,
+        "Ruby": 2,
+        "Silver Ore": 2
+      }
+    },
+    "Neptune Fuel Reserve": {
+      "name": "Neptune Fuel Reserve",
+      "raw": false,
+      "recipe": {
+        "Plasteel Ingot": 1,
+        "Crystalline Sulfur": 4,
+        "Kyanite": 4,
+        "Ion Power Cell": 2
+      },
+      "acquired_from": [
+        "Neptune Rocket"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Creepvine Seed Cluster": 2,
+        "Crystalline Sulfur": 4,
+        "Gold": 4,
+        "Ion Cube": 4,
+        "Kyanite": 4,
+        "Lithium": 2,
+        "Metal Salvage": 10,
+        "Silver Ore": 4
+      }
+    },
+    "Neptune Cockpit": {
+      "name": "Neptune Cockpit",
+      "raw": false,
+      "recipe": {
+        "Cyclops Shield Generator": 1,
+        "Plasteel Ingot": 1,
+        "Enameled Glass": 1,
+        "Computer Chip": 1
+      },
+      "acquired_from": [
+        "Neptune Rocket"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Acid Mushroom": 4,
+        "Copper Ore": 6,
+        "Creepvine Seed Cluster": 1,
+        "Deep Shroom": 3,
+        "Gold": 5,
+        "Lithium": 2,
+        "Metal Salvage": 10,
+        "Quartz": 2,
+        "Salt Deposit": 1,
+        "Silver Ore": 2,
+        "Stalker Teeth": 1,
+        "Table Coral Sample": 4
+      }
+    },
+    "Seamoth Perimeter Defense System": {
+      "name": "Seamoth Perimeter Defense System",
+      "raw": false,
+      "recipe": {
+        "Polyaniline": 1,
+        "Wiring Kit": 1
+      },
+      "acquired_from": [
+        "Upgrade Console"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Deep Shroom": 3,
+        "Gold": 1,
+        "Salt Deposit": 1,
+        "Silver Ore": 2
+      }
+    },
+    "Seamoth Solar Charger": {
+      "name": "Seamoth Solar Charger",
+      "raw": false,
+      "recipe": {
+        "Advanced Wiring Kit": 1,
+        "Enameled Glass": 1
+      },
+      "acquired_from": [
+        "Upgrade Console"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Gold": 3,
+        "Quartz": 2,
+        "Silver Ore": 2,
+        "Stalker Teeth": 1,
+        "Table Coral Sample": 2
+      }
+    },
+    "Seamoth Sonar": {
+      "name": "Seamoth Sonar",
+      "raw": false,
+      "recipe": {
+        "Copper Wire": 1,
+        "Magnetite": 2
+      },
+      "acquired_from": [
+        "Upgrade Console"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Magnetite": 2
+      }
+    },
+    "Torpedo System": {
+      "name": "Torpedo System",
+      "raw": false,
+      "recipe": {
+        "Titanium": 3,
+        "Lithium": 1,
+        "Aerogel": 1
+      },
+      "acquired_from": [
+        "Upgrade Console"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Gel Sack": 1,
+        "Lithium": 1,
+        "Metal Salvage": 3,
+        "Ruby": 1
+      }
+    }
+  }
+}
