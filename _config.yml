@@ -1,0 +1,18 @@
+title: Agi Luong
+
+# Pretty URLs for posts: a file _posts/2026-06-07-my-title.md -> /blog/my-title/
+permalink: /blog/:title/
+
+# Every post automatically uses the post layout, so a new post only needs a title.
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+exclude:
+  - BLOGGING.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
