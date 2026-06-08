@@ -1,0 +1,29 @@
+title: Agi Luong
+
+# Pretty URLs for posts: a file _posts/2026-06-07-my-title.md -> /blog/my-title/
+permalink: /blog/:title/
+
+# Projects work like the blog: drop a file in _projects/ and it shows up at /projects/.
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+# Every post automatically uses the post layout, so a new post only needs a title.
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
+
+exclude:
+  - BLOGGING.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor

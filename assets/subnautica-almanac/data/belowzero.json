@@ -1,0 +1,1958 @@
+{
+  "game": "Subnautica: Below Zero",
+  "items": {
+    "Copper Ore": {
+      "name": "Copper Ore",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Large Resource Deposits",
+        "Limestone Outcrop",
+        "Ore Vein",
+        "Sea Monkey"
+      ],
+      "biomes": [
+        "Arctic Kelp Caves",
+        "Arctic Kelp Forest",
+        "Arctic Spires",
+        "Crystal Caves",
+        "Main Crystal Caves",
+        "Deep Lilypads Cave",
+        "Delta Island",
+        "East Arctic",
+        "Fabricator Caverns",
+        "Glacial Basin",
+        "Glacial Bay",
+        "Glacial Connection",
+        "Lilypad Islands",
+        "Main Lilypad Islands",
+        "Lilypads Crevice",
+        "Koppa Mining Site",
+        "Shallow Twisty Bridges",
+        "Sparse Arctic",
+        "Thermal Spires",
+        "Twisty Bridges",
+        "West Arctic"
+      ],
+      "description": "Cu. Essential wiring component.",
+      "category": "Raw Materials",
+      "raw_totals": {}
+    },
+    "Creepvine Sample": {
+      "name": "Creepvine Sample",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Creepvine Seed Cluster": {
+      "name": "Creepvine Seed Cluster",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Crystalline Sulfur": {
+      "name": "Crystalline Sulfur",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Seabed",
+        "Sea Monkey",
+        "Sulfur Plant"
+      ],
+      "biomes": [
+        "Arctic Kelp Caves",
+        "Crystal Caves",
+        "Crystal Castle",
+        "Delta Island",
+        "Deep Purple Vents",
+        "Purple Vents",
+        "Twisty Bridges"
+      ],
+      "description": "S. Oxidant and reducing agent.",
+      "category": "Raw Materials",
+      "raw_totals": {}
+    },
+    "Diamond": {
+      "name": "Diamond",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Large Resource Deposits",
+        "Ore Vein",
+        "Seabed",
+        "Sea Monkey"
+      ],
+      "biomes": [
+        "Arctic Spires",
+        "Crystal Caves",
+        "Main Crystal Caves",
+        "Crystal Castle",
+        "Deep Lilypads Cave",
+        "Deep Twisty Bridges",
+        "Delta Island",
+        "East Arctic",
+        "Koppa Mining Site",
+        "Thermal Spires Caves",
+        "Tree Spires",
+        "Tree Spires Fissure",
+        "West Arctic"
+      ],
+      "description": "C. Carbon allotrope with superlative physical properties.",
+      "category": "Raw Materials",
+      "raw_totals": {}
+    },
+    "Fevered Pepper": {
+      "name": "Fevered Pepper",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [
+        "Arctic Spires",
+        "East Arctic",
+        "Glacial Basin",
+        "Blue Ice Caves",
+        "Dark Caves",
+        "Temperate Caves",
+        "Glacial Bay",
+        "West Arctic"
+      ],
+      "description": "Spicy edible pepper.",
+      "category": "Flora",
+      "raw_totals": {}
+    },
+    "Flowering Spore": {
+      "name": "Flowering Spore",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [
+        "Deep Lilypads Cave"
+      ],
+      "description": "Spore used in advanced material production.",
+      "category": "Raw Materials",
+      "raw_totals": {}
+    },
+    "Frost Vase Plant": {
+      "name": "Frost Vase Plant",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "Iodine content useful for chemical applications.",
+      "category": "Items",
+      "raw_totals": {}
+    },
+    "Gel Sack": {
+      "name": "Gel Sack",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Gold": {
+      "name": "Gold",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Calaverite Outcrop",
+        "Large Resource Deposits",
+        "Ore Vein",
+        "Sea Monkey"
+      ],
+      "biomes": [
+        "Arctic Kelp Caves",
+        "Crystal Caves",
+        "Main Crystal Caves",
+        "Crystal Caves Fissure",
+        "Deep Lilypads Cave",
+        "Deep Twisty Bridges",
+        "Delta Island",
+        "East Arctic",
+        "Fabricator Caverns",
+        "Lilypad Islands",
+        "Lilypad Islands Caves",
+        "Lilypads Crevice",
+        "Shallow Twisty Bridges",
+        "Thermal Spires",
+        "Thermal Spires Caves",
+        "Tree Spires",
+        "Tree Spires Fissure",
+        "Twisty Bridges Caves",
+        "West Arctic"
+      ],
+      "description": "Au. Valuable conductive properties. Highly valuable social property.",
+      "category": "Raw Materials",
+      "raw_totals": {}
+    },
+    "Ion Cube": {
+      "name": "Ion Cube",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Large Resource Deposits",
+        "Seabed"
+      ],
+      "biomes": [
+        "Arctic Kelp Caves",
+        "Arctic Spires",
+        "Deep Purple Vents",
+        "Deep Twisty Bridges",
+        "Delta Island",
+        "East Arctic",
+        "Glacial Bay",
+        "Glacial Connection",
+        "Tree Spires",
+        "Tree Spires Fissure"
+      ],
+      "description": "High capacity energy source.",
+      "category": "Raw Materials",
+      "raw_totals": {}
+    },
+    "Kyanite": {
+      "name": "Kyanite",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Large Resource Deposits",
+        "Seabed"
+      ],
+      "biomes": [
+        "Crystal Caves",
+        "Main Crystal Caves",
+        "Crystal Castle",
+        "Fabricator Caverns"
+      ],
+      "description": "Al2SiO5. Deep blue, heat resistant crystal.",
+      "category": "Raw Materials",
+      "raw_totals": {}
+    },
+    "Lead": {
+      "name": "Lead",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Galena Outcrop",
+        "Sea Monkey"
+      ],
+      "biomes": [
+        "Crystal Caves",
+        "Main Crystal Caves",
+        "East Arctic",
+        "Glacial Connection",
+        "Lilypad Islands",
+        "Main Lilypad Islands",
+        "Shallow Twisty Bridges",
+        "Thermal Spires",
+        "Thermal Spires Caves",
+        "Twisty Bridges"
+      ],
+      "description": "Pb. Screening from radiation.",
+      "category": "Raw Materials",
+      "raw_totals": {}
+    },
+    "Lithium": {
+      "name": "Lithium",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Ore Vein",
+        "Seabed",
+        "Sea Monkey"
+      ],
+      "biomes": [
+        "Arctic Spires",
+        "Crystal Caves",
+        "Main Crystal Caves",
+        "Deep Purple Vents",
+        "Deep Twisty Bridges",
+        "East Arctic",
+        "Purple Vents",
+        "Thermal Spires",
+        "Tree Spires",
+        "Tree Spires Fissure"
+      ],
+      "description": "Li. Applications in high-strength alloys.",
+      "category": "Raw Materials",
+      "raw_totals": {}
+    },
+    "Magnetite": {
+      "name": "Magnetite",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Ore Vein",
+        "Seabed",
+        "Sea Monkey"
+      ],
+      "biomes": [
+        "Crystal Caves",
+        "Main Crystal Caves",
+        "Crystal Caves Fissure",
+        "Deep Lilypads Cave",
+        "East Arctic",
+        "Glacial Basin",
+        "Basin",
+        "Blue Ice Caves",
+        "Dark Caves",
+        "Ice Fissure",
+        "Temperate Caves",
+        "Underwater Caves",
+        "Glacial Connection",
+        "West Arctic"
+      ],
+      "description": "Fe3O4. Metal oxide with magnetic properties.",
+      "category": "Raw Materials",
+      "raw_totals": {}
+    },
+    "Nickel Ore": {
+      "name": "Nickel Ore",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Seabed",
+        "Sea Monkey"
+      ],
+      "biomes": [
+        "Crystal Caves",
+        "Main Crystal Caves",
+        "Crystal Caves Fissure",
+        "Deep Lilypads Cave",
+        "Fabricator Caverns",
+        "Lilypads Crevice"
+      ],
+      "description": "Ni. Versatile alloy ingredient required for advanced fabrication.",
+      "category": "Raw Materials",
+      "raw_totals": {}
+    },
+    "Preston's Plant Leaf": {
+      "name": "Preston's Plant Leaf",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "Delightful\u2026 to some.",
+      "category": "Flora",
+      "raw_totals": {}
+    },
+    "Quartz": {
+      "name": "Quartz",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Large Resource Deposits",
+        "Ore Vein",
+        "Seabed",
+        "Sea Monkey"
+      ],
+      "biomes": [
+        "Arctic Kelp Caves",
+        "Arctic Kelp Forest",
+        "Arctic Spires",
+        "Crystal Caves",
+        "Main Crystal Caves",
+        "Deep Lilypads Cave",
+        "Fabricator Caverns",
+        "Glacial Basin",
+        "Basin",
+        "Blue Ice Caves",
+        "Glacial Forest",
+        "Glacial Bay",
+        "Lilypad Islands",
+        "Main Lilypad Islands",
+        "Purple Vents",
+        "Shallow Twisty Bridges",
+        "Sparse Arctic",
+        "Tree Spires",
+        "Twisty Bridges"
+      ],
+      "description": "SiO4. Silica in crystalline form.",
+      "category": "Raw Materials",
+      "raw_totals": {}
+    },
+    "Ribbon Plant": {
+      "name": "Ribbon Plant",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Root Globule": {
+      "name": "Root Globule",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [
+        "Arctic Kelp Caves"
+      ],
+      "description": "Root pustule found in kelp caves. Contains highly reactive compounds.",
+      "category": "Raw Materials",
+      "raw_totals": {}
+    },
+    "Ruby": {
+      "name": "Ruby",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Large Resource Deposits",
+        "Seabed"
+      ],
+      "biomes": [
+        "Crystal Caves",
+        "Main Crystal Caves",
+        "Deep Lilypads Cave",
+        "East Arctic",
+        "Koppa Mining Site",
+        "Lilypads Crevice",
+        "Tree Spires",
+        "Tree Spires Fissure",
+        "Large Tree Spire"
+      ],
+      "description": "Al2O3. Valuable thermo-conductivity and electro-conductance.",
+      "category": "Raw Materials",
+      "raw_totals": {}
+    },
+    "Salt Deposit": {
+      "name": "Salt Deposit",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Seabed",
+        "Sea Monkey",
+        "Water Filtration Machine"
+      ],
+      "biomes": [
+        "Arctic Kelp Caves",
+        "Deep Purple Vents",
+        "Purple Vents",
+        "Sparse Arctic",
+        "Twisty Bridges"
+      ],
+      "description": "NaCl. Culinary and sanitation applications.",
+      "category": "Raw Materials",
+      "raw_totals": {}
+    },
+    "Silver Ore": {
+      "name": "Silver Ore",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Argentite Outcrop",
+        "Large Resource Deposits",
+        "Ore Vein",
+        "Sea Monkey"
+      ],
+      "biomes": [
+        "Arctic Kelp Caves",
+        "Arctic Kelp Forest",
+        "Arctic Spires",
+        "Crystal Caves",
+        "Main Crystal Caves",
+        "Crystal Caves Fissure",
+        "Fabricator Caverns",
+        "Glacial Basin",
+        "Blue Ice Caves",
+        "Dark Caves",
+        "Ice Fissure",
+        "Temperate Caves",
+        "Underwater Caves",
+        "Glacial Bay",
+        "Glacial Connection",
+        "Koppa Mining Site",
+        "Lilypad Islands",
+        "Main Lilypad Islands",
+        "Shallow Twisty Bridges",
+        "Thermal Spires",
+        "Thermal Spires Caves",
+        "Tree Spires",
+        "Main Tree Spires",
+        "Twisty Bridges",
+        "Twisty Bridges Caves",
+        "West Arctic"
+      ],
+      "description": "Ag. Conductive element and microbicide.",
+      "category": "Raw Materials",
+      "raw_totals": {}
+    },
+    "Snowball": {
+      "name": "Snowball",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [
+        "Arctic Spires",
+        "East Arctic",
+        "Delta Island",
+        "Glacial Basin",
+        "Glacial Bay",
+        "Outpost Zero",
+        "Shallow Twisty Bridges",
+        "Sparse Arctic",
+        "West Arctic"
+      ],
+      "description": "",
+      "category": "Raw Materials",
+      "raw_totals": {}
+    },
+    "Snow Stalker Fur": {
+      "name": "Snow Stalker Fur",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Snow Stalker"
+      ],
+      "biomes": [
+        "Arctic Spires",
+        "East Arctic",
+        "Glacial Basin",
+        "Basin",
+        "Blue Ice Caves",
+        "Glacial Forest"
+      ],
+      "description": "A tuft of fur from a Snow Stalker.",
+      "category": "Raw Materials",
+      "raw_totals": {}
+    },
+    "Table Coral Sample": {
+      "name": "Table Coral Sample",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Sea Monkey",
+        "Table Coral"
+      ],
+      "biomes": [
+        "Lilypad Islands",
+        "Twisty Bridges",
+        "Twisty Bridges Caves"
+      ],
+      "description": "Contains trace precious metals used in computer fabrication.",
+      "category": "Raw Materials",
+      "raw_totals": {}
+    },
+    "Titanium": {
+      "name": "Titanium",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Fragments",
+        "Harvesting Nodes",
+        "Large Resource Deposits",
+        "Ore Vein",
+        "Sea Monkeys"
+      ],
+      "biomes": [
+        "Arctic Kelp Caves",
+        "Arctic Kelp Forest",
+        "Arctic Spires",
+        "Crystal Caves",
+        "Main Crystal Caves",
+        "Crystal Caves Fissure",
+        "Deep Lilypads Cave",
+        "Deep Twisty Bridges",
+        "Delta Island",
+        "East Arctic",
+        "Fabricator Caverns",
+        "Glacial Basin",
+        "Basin",
+        "Glacial Forest",
+        "Glacial Bay",
+        "Glacial Connection",
+        "Koppa Mining Site",
+        "Lilypad Islands",
+        "Main Lilypad Islands",
+        "Lilypad Islands Caves",
+        "Lilypads Crevice",
+        "Shallow Twisty Bridges",
+        "Sparse Arctic",
+        "Thermal Spires",
+        "Thermal Spires Caves",
+        "Tree Spires",
+        "Main Tree Spires",
+        "Tree Spires Fissure",
+        "Twisty Bridges",
+        "Twisty Bridges Caves",
+        "West Arctic"
+      ],
+      "description": "Ti. Basic building material.",
+      "category": "Raw Materials",
+      "raw_totals": {}
+    },
+    "Uraninite Crystal": {
+      "name": "Uraninite Crystal",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [
+        "Seabed"
+      ],
+      "biomes": [
+        "Crystal Caves",
+        "Main Crystal Caves",
+        "Deep Lilypads Cave",
+        "Deep Purple Vents",
+        "Tree Spires",
+        "Tree Spires Fissure"
+      ],
+      "description": "U3O8. A highly radioactive material.",
+      "category": "Raw Materials",
+      "raw_totals": {}
+    },
+    "Young Cotton Anemone": {
+      "name": "Young Cotton Anemone",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": "Items",
+      "raw_totals": {}
+    },
+    "Glass": {
+      "name": "Glass",
+      "raw": false,
+      "recipe": {
+        "Quartz": 2
+      },
+      "acquired_from": [
+        "Fabricator",
+        "Sea Monkey"
+      ],
+      "biomes": [],
+      "description": "SiO4. Pure fused quartz glass.",
+      "category": "Basic Materials",
+      "raw_totals": {
+        "Quartz": 2
+      }
+    },
+    "Lubricant": {
+      "name": "Lubricant",
+      "raw": false,
+      "recipe": {
+        "Creepvine Seed Cluster": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Naturally-derived, oil-based lubricant. Industrial applications.",
+      "category": "Basic Materials",
+      "raw_totals": {
+        "Creepvine Seed Cluster": 1
+      }
+    },
+    "Fiber Mesh": {
+      "name": "Fiber Mesh",
+      "raw": false,
+      "recipe": {
+        "Creepvine Sample": 2
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Strong natural fiber. Comfy.",
+      "category": "Basic Materials",
+      "raw_totals": {
+        "Creepvine Sample": 2
+      }
+    },
+    "Enameled Glass": {
+      "name": "Enameled Glass",
+      "raw": false,
+      "recipe": {
+        "Glass": 1,
+        "Lead": 1,
+        "Diamond": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Glass, hardened using a natural substrate.",
+      "category": "Basic Materials",
+      "raw_totals": {
+        "Diamond": 1,
+        "Lead": 1,
+        "Quartz": 2
+      }
+    },
+    "Titanium Ingot": {
+      "name": "Titanium Ingot",
+      "raw": false,
+      "recipe": {
+        "Titanium": 5
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Ti. Condensed titanium bar.",
+      "category": "Basic Materials",
+      "raw_totals": {
+        "Titanium": 5
+      }
+    },
+    "Plasteel Ingot": {
+      "name": "Plasteel Ingot",
+      "raw": false,
+      "recipe": {
+        "Titanium Ingot": 1,
+        "Lithium": 2
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Ultra-strong synthetic construction material.",
+      "category": "Basic Materials",
+      "raw_totals": {
+        "Lithium": 2,
+        "Titanium": 5
+      }
+    },
+    "Silicone Rubber": {
+      "name": "Silicone Rubber",
+      "raw": false,
+      "recipe": {
+        "Creepvine Seed Cluster": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Synthetic, silicone-based rubber.",
+      "category": "Basic Materials",
+      "raw_totals": {
+        "Creepvine Seed Cluster": 1
+      }
+    },
+    "Beacon": {
+      "name": "Beacon",
+      "raw": false,
+      "recipe": {
+        "Copper Ore": 1,
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Arctic Kelp Forest (Emergency Supply Cache)",
+        "Delta Island",
+        "Glacial Basin",
+        "Basin"
+      ],
+      "biomes": [],
+      "description": "Navigation aid. Suitable for surface or underwater use. Maintains and broadcasts its position. Configurable signal name.",
+      "category": "Deployables",
+      "raw_totals": {
+        "Copper Ore": 1,
+        "Titanium": 1
+      }
+    },
+    "Battery": {
+      "name": "Battery",
+      "raw": false,
+      "recipe": {
+        "Ribbon Plant": 2,
+        "Copper Ore": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Mobile power source.",
+      "category": "Electronics",
+      "raw_totals": {
+        "Copper Ore": 1,
+        "Ribbon Plant": 2
+      }
+    },
+    "Wiring Kit": {
+      "name": "Wiring Kit",
+      "raw": false,
+      "recipe": {
+        "Silver Ore": 2
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Insulated silver wire. Essential electronic component.",
+      "category": "Electronics",
+      "raw_totals": {
+        "Silver Ore": 2
+      }
+    },
+    "Copper Wire": {
+      "name": "Copper Wire",
+      "raw": false,
+      "recipe": {
+        "Copper Ore": 2
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Copper atoms fabricated into basic electrical wiring.",
+      "category": "Electronics",
+      "raw_totals": {
+        "Copper Ore": 2
+      }
+    },
+    "Computer Chip": {
+      "name": "Computer Chip",
+      "raw": false,
+      "recipe": {
+        "Table Coral Sample": 2,
+        "Gold": 1,
+        "Copper Wire": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Multi-purpose CPU.",
+      "category": "Electronics",
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Gold": 1,
+        "Table Coral Sample": 2
+      }
+    },
+    "Advanced Wiring Kit": {
+      "name": "Advanced Wiring Kit",
+      "raw": false,
+      "recipe": {
+        "Wiring Kit": 1,
+        "Computer Chip": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "CPU used in advanced construction.",
+      "category": "Electronics",
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Gold": 1,
+        "Silver Ore": 2,
+        "Table Coral Sample": 2
+      }
+    },
+    "Power Cell": {
+      "name": "Power Cell",
+      "raw": false,
+      "recipe": {
+        "Battery": 2,
+        "Silicone Rubber": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "High-capacity mobile power source.",
+      "category": "Electronics",
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Creepvine Seed Cluster": 1,
+        "Ribbon Plant": 4
+      }
+    },
+    "Ion Battery": {
+      "name": "Ion Battery",
+      "raw": false,
+      "recipe": {
+        "Ion Cube": 1,
+        "Gold": 1,
+        "Silver Ore": 1,
+        "Lithium": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Ion-infused battery.",
+      "category": "Electronics",
+      "raw_totals": {
+        "Gold": 1,
+        "Ion Cube": 1,
+        "Lithium": 1,
+        "Silver Ore": 1
+      }
+    },
+    "Ion Power Cell": {
+      "name": "Ion Power Cell",
+      "raw": false,
+      "recipe": {
+        "Ion Battery": 2,
+        "Silicone Rubber": 1,
+        "Wiring Kit": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Ion-infused power cell.",
+      "category": "Electronics",
+      "raw_totals": {
+        "Creepvine Seed Cluster": 1,
+        "Gold": 2,
+        "Ion Cube": 2,
+        "Lithium": 2,
+        "Silver Ore": 4
+      }
+    },
+    "Reactor Rod": {
+      "name": "Reactor Rod",
+      "raw": false,
+      "recipe": {
+        "Uraninite Crystal": 2,
+        "Lead": 1,
+        "Titanium": 1,
+        "Glass": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Used to power nuclear reactors.",
+      "category": "Electronics",
+      "raw_totals": {
+        "Lead": 1,
+        "Quartz": 2,
+        "Titanium": 1,
+        "Uraninite Crystal": 2
+      }
+    },
+    "Aerogel": {
+      "name": "Aerogel",
+      "raw": false,
+      "recipe": {
+        "Gel Sack": 1,
+        "Ruby": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Light, porous, dried gel. High heat insulation.",
+      "category": "Advanced Materials",
+      "raw_totals": {
+        "Gel Sack": 1,
+        "Ruby": 1
+      }
+    },
+    "Benzene": {
+      "name": "Benzene",
+      "raw": false,
+      "recipe": {
+        "Flowering Spore": 2,
+        "Ribbon Plant": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "C6H6. Oil and solvent applications.",
+      "category": "Advanced Materials",
+      "raw_totals": {
+        "Flowering Spore": 2,
+        "Ribbon Plant": 1
+      }
+    },
+    "Hydrochloric Acid": {
+      "name": "Hydrochloric Acid",
+      "raw": false,
+      "recipe": {
+        "Young Cotton Anemone": 3,
+        "Salt Deposit": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "HCI. Powerful acidic compound. Employ due care.",
+      "category": "Advanced Materials",
+      "raw_totals": {
+        "Salt Deposit": 1,
+        "Young Cotton Anemone": 3
+      }
+    },
+    "Polyaniline": {
+      "name": "Polyaniline",
+      "raw": false,
+      "recipe": {
+        "Gold": 1,
+        "Hydrochloric Acid": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "High conductance polymer.",
+      "category": "Advanced Materials",
+      "raw_totals": {
+        "Gold": 1,
+        "Salt Deposit": 1,
+        "Young Cotton Anemone": 3
+      }
+    },
+    "Synthetic Fibers": {
+      "name": "Synthetic Fibers",
+      "raw": false,
+      "recipe": {
+        "Ruby": 1,
+        "Spiral Plant Clipping": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "High-strength synthetic fibers.",
+      "category": "Advanced Materials",
+      "raw_totals": {
+        "Ruby": 1,
+        "Spiral Plant Clipping": 1
+      }
+    },
+    "Spiral Plant Clipping": {
+      "name": "Spiral Plant Clipping",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "A clipping taken from a spiral plant.",
+      "category": "Raw Materials",
+      "raw_totals": {}
+    },
+    "Grav Trap": {
+      "name": "Grav Trap",
+      "raw": false,
+      "recipe": {
+        "Battery": 1,
+        "Copper Ore": 1,
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Uses artificial gravity to attract light objects and small creatures.",
+      "category": "Deployables",
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Ribbon Plant": 2,
+        "Titanium": 1
+      }
+    },
+    "Mobile Vehicle Bay": {
+      "name": "Mobile Vehicle Bay",
+      "raw": false,
+      "recipe": {
+        "Titanium Ingot": 1,
+        "Lubricant": 1,
+        "Computer Chip": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Fabricates vehicles from raw materials.",
+      "category": "Deployables",
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Creepvine Seed Cluster": 1,
+        "Gold": 1,
+        "Table Coral Sample": 2,
+        "Titanium": 5
+      }
+    },
+    "Quantum Locker": {
+      "name": "Quantum Locker",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2,
+        "Advanced Wiring Kit": 1,
+        "Ion Cube": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Storage solution which shares content with all other quantum lockers.",
+      "category": "Deployables",
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Gold": 1,
+        "Ion Cube": 1,
+        "Silver Ore": 2,
+        "Table Coral Sample": 2,
+        "Titanium": 2
+      }
+    },
+    "Seaglide": {
+      "name": "Seaglide",
+      "raw": false,
+      "recipe": {
+        "Battery": 1,
+        "Lubricant": 1,
+        "Copper Wire": 1,
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Converts torque into thrust underwater via propeller.",
+      "category": "Deployables",
+      "raw_totals": {
+        "Copper Ore": 3,
+        "Creepvine Seed Cluster": 1,
+        "Ribbon Plant": 2,
+        "Titanium": 1
+      }
+    },
+    "Spy Pengling": {
+      "name": "Spy Pengling",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2,
+        "Wiring Kit": 1,
+        "Silicone Rubber": 1,
+        "Battery": 1
+      },
+      "acquired_from": [],
+      "biomes": [],
+      "description": "Reconnaissance tool for exploring the surface.",
+      "category": "Tools",
+      "raw_totals": {
+        "Copper Ore": 1,
+        "Creepvine Seed Cluster": 1,
+        "Ribbon Plant": 2,
+        "Silver Ore": 2,
+        "Titanium": 2
+      }
+    },
+    "Spy Pengling Remote": {
+      "name": "Spy Pengling Remote",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1,
+        "Copper Wire": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Tool for driving Spy Penglings.",
+      "category": "Tools",
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Titanium": 1
+      }
+    },
+    "Waterproof Locker": {
+      "name": "Waterproof Locker",
+      "raw": false,
+      "recipe": {
+        "Titanium": 4
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Small storage solution that maintains position in the water.",
+      "category": "Deployables",
+      "raw_totals": {
+        "Titanium": 4
+      }
+    },
+    "Standard O2 Tank": {
+      "name": "Standard O2 Tank",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2,
+        "Fiber Mesh": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "O2 mix. Compressed, breathable air.",
+      "category": "Equipment",
+      "raw_totals": {
+        "Creepvine Sample": 2,
+        "Titanium": 2
+      }
+    },
+    "High Capacity O2 Tank": {
+      "name": "High Capacity O2 Tank",
+      "raw": false,
+      "recipe": {
+        "Standard O2 Tank": 1,
+        "Glass": 2,
+        "Titanium": 4,
+        "Silver Ore": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "O2 mix. Highly Compressed breathable air.",
+      "category": "Equipment",
+      "raw_totals": {
+        "Creepvine Sample": 2,
+        "Quartz": 4,
+        "Silver Ore": 1,
+        "Titanium": 6
+      }
+    },
+    "Booster Tank": {
+      "name": "Booster Tank",
+      "raw": false,
+      "recipe": {
+        "High Capacity O2 Tank": 1,
+        "Wiring Kit": 1
+      },
+      "acquired_from": [],
+      "biomes": [],
+      "description": "Use oxygen to give a speed boost",
+      "category": "Equipment",
+      "raw_totals": {
+        "Creepvine Sample": 2,
+        "Quartz": 4,
+        "Silver Ore": 3,
+        "Titanium": 6
+      }
+    },
+    "Cold Suit": {
+      "name": "Cold Suit",
+      "raw": false,
+      "recipe": {
+        "Fiber Mesh": 2,
+        "Snow Stalker Fur": 2
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "An insulated suit to provide protection from the cold.",
+      "category": "Equipment",
+      "raw_totals": {
+        "Creepvine Sample": 4,
+        "Snow Stalker Fur": 2
+      }
+    },
+    "Cold Suit Gloves": {
+      "name": "Cold Suit Gloves",
+      "raw": false,
+      "recipe": {
+        "Fiber Mesh": 1,
+        "Snow Stalker Fur": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "An insulated suit to provide protection from the cold.",
+      "category": "Equipment",
+      "raw_totals": {
+        "Creepvine Sample": 2,
+        "Snow Stalker Fur": 1
+      }
+    },
+    "Cold Suite Helmet": {
+      "name": "Cold Suite Helmet",
+      "raw": false,
+      "recipe": {
+        "Snow Stalker Fur": 1,
+        "Fiber Mesh": 1
+      },
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Creepvine Sample": 2,
+        "Snow Stalker Fur": 1
+      }
+    },
+    "Compass": {
+      "name": "Compass",
+      "raw": false,
+      "recipe": {
+        "Copper Wire": 1,
+        "Wiring Kit": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Displays compass heading on the HUD.",
+      "category": "Equipment",
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Silver Ore": 2
+      }
+    },
+    "Fins": {
+      "name": "Fins",
+      "raw": false,
+      "recipe": {
+        "Silicone Rubber": 2
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Translate vertical limb movements underwater into forward thrust. Enhance swim speed by approximately 15%.",
+      "category": "Equipment",
+      "raw_totals": {
+        "Creepvine Seed Cluster": 2
+      }
+    },
+    "First Aid Kit": {
+      "name": "First Aid Kit",
+      "raw": false,
+      "recipe": {
+        "Fiber Mesh": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Treated bandages. Apply to staunch blood-flow and sanitize wounds.",
+      "category": "Equipment",
+      "raw_totals": {
+        "Creepvine Sample": 2
+      }
+    },
+    "Floating Air Pump": {
+      "name": "Floating Air Pump",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2
+      },
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Titanium": 2
+      }
+    },
+    "Pipe": {
+      "name": "Pipe",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2
+      },
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Titanium": 2
+      }
+    },
+    "Headlamp": {
+      "name": "Headlamp",
+      "raw": false,
+      "recipe": {
+        "Ion Battery": 1,
+        "Glass": 1,
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Battery-powered, all-environment head-mounted light source.",
+      "category": "Equipment",
+      "raw_totals": {
+        "Gold": 1,
+        "Ion Cube": 1,
+        "Lithium": 1,
+        "Quartz": 2,
+        "Silver Ore": 1,
+        "Titanium": 1
+      }
+    },
+    "Rebreather": {
+      "name": "Rebreather",
+      "raw": false,
+      "recipe": {
+        "Wiring Kit": 1,
+        "Silicone Rubber": 1,
+        "Fiber Mesh": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Conserves oxygen when diving deeper. Absorbs and recycles CO2 into breathable air.",
+      "category": "Equipment",
+      "raw_totals": {
+        "Creepvine Sample": 2,
+        "Creepvine Seed Cluster": 1,
+        "Silver Ore": 2
+      }
+    },
+    "Thermos": {
+      "name": "Thermos",
+      "raw": false,
+      "recipe": {
+        "Titanium": 1,
+        "Glass": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Insulated storage receptacle for beverages.",
+      "category": "Equipment",
+      "raw_totals": {
+        "Quartz": 2,
+        "Titanium": 1
+      }
+    },
+    "Ultra High Capacity Tank": {
+      "name": "Ultra High Capacity Tank",
+      "raw": false,
+      "recipe": {
+        "High Capacity O2 Tank": 1,
+        "Lithium": 4
+      },
+      "acquired_from": [
+        "Modification Station"
+      ],
+      "biomes": [],
+      "description": "Additional air capacity.",
+      "category": "Equipment",
+      "raw_totals": {
+        "Creepvine Sample": 2,
+        "Lithium": 4,
+        "Quartz": 4,
+        "Silver Ore": 1,
+        "Titanium": 6
+      }
+    },
+    "Water Filtration Suit": {
+      "name": "Water Filtration Suit",
+      "raw": false,
+      "recipe": {
+        "Synthetic Fibers": 1,
+        "Aerogel": 1,
+        "Copper Wire": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Reclaims moisture from the body and provides clean, drinkable water.",
+      "category": "Equipment",
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Gel Sack": 1,
+        "Ruby": 2,
+        "Spiral Plant Clipping": 1
+      }
+    },
+    "Antidote": {
+      "name": "Antidote",
+      "raw": false,
+      "recipe": {
+        "Frost Vase Plant": 1,
+        "Fevered Pepper": 1
+      },
+      "acquired_from": [],
+      "biomes": [],
+      "description": "An injectable container of antibacterial agent",
+      "category": "Advanced Materials",
+      "raw_totals": {
+        "Fevered Pepper": 1,
+        "Frost Vase Plant": 1
+      }
+    },
+    "Hydraulic Fluid": {
+      "name": "Hydraulic Fluid",
+      "raw": false,
+      "recipe": {
+        "Creepvine Seed Cluster": 1,
+        "Gel Sack": 4
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Mechanical hydraulic fluid.",
+      "category": "Advanced Materials",
+      "raw_totals": {
+        "Creepvine Seed Cluster": 1,
+        "Gel Sack": 4
+      }
+    },
+    "Architect Organs": {
+      "name": "Architect Organs",
+      "raw": false,
+      "recipe": {
+        "Ion Cube": 1,
+        "Ribbon Plant": 2,
+        "Kyanite": 3
+      },
+      "acquired_from": [
+        "Architect Component Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": "Archi-Tech",
+      "raw_totals": {
+        "Ion Cube": 1,
+        "Kyanite": 3,
+        "Ribbon Plant": 2
+      }
+    },
+    "Architect Skeleton": {
+      "name": "Architect Skeleton",
+      "raw": false,
+      "recipe": {
+        "Diamond": 3,
+        "Plasteel Ingot": 1,
+        "Polyaniline": 1
+      },
+      "acquired_from": [
+        "Architect Component Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": "Archi-Tech",
+      "raw_totals": {
+        "Diamond": 3,
+        "Gold": 1,
+        "Lithium": 2,
+        "Salt Deposit": 1,
+        "Titanium": 5,
+        "Young Cotton Anemone": 3
+      }
+    },
+    "Root Pustule": {
+      "name": "Root Pustule",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [
+        "Arctic Kelp Caves"
+      ],
+      "description": "Root pustule found in kelp caves. Contains highly reactive compounds.",
+      "category": "Raw Materials",
+      "raw_totals": {}
+    },
+    "Architect Tissues": {
+      "name": "Architect Tissues",
+      "raw": false,
+      "recipe": {
+        "Root Pustule": 2,
+        "Synthetic Fibers": 1,
+        "Gel Sack": 2
+      },
+      "acquired_from": [
+        "Architect Component Fabricator"
+      ],
+      "biomes": [],
+      "description": "",
+      "category": "Archi-Tech",
+      "raw_totals": {
+        "Gel Sack": 2,
+        "Root Pustule": 2,
+        "Ruby": 1,
+        "Spiral Plant Clipping": 1
+      }
+    },
+    "Parallel Processing Unit": {
+      "name": "Parallel Processing Unit",
+      "raw": false,
+      "recipe": {
+        "Gold": 1,
+        "Silver Ore": 1,
+        "Table Coral Sample": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Component used in various test devices.",
+      "category": null,
+      "raw_totals": {
+        "Gold": 1,
+        "Silver Ore": 1,
+        "Table Coral Sample": 1
+      }
+    },
+    "Test Override Module": {
+      "name": "Test Override Module",
+      "raw": false,
+      "recipe": {
+        "Parallel Processing Unit": 1,
+        "Titanium": 1,
+        "Lead": 1,
+        "Copper Wire": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Diagnostic module for the Delta Station communications tower",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 2,
+        "Gold": 1,
+        "Lead": 1,
+        "Silver Ore": 1,
+        "Table Coral Sample": 1,
+        "Titanium": 1
+      }
+    },
+    "Reinforced Dive Suit": {
+      "name": "Reinforced Dive Suit",
+      "raw": false,
+      "recipe": {
+        "Synthetic Fibers": 1,
+        "Diamond": 2,
+        "Titanium": 2
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Heavy synthetic fiber dive suit providing 50% physical protection and enhanced survival in extreme temperatures.",
+      "category": "Equipment",
+      "raw_totals": {
+        "Diamond": 2,
+        "Ruby": 1,
+        "Spiral Plant Clipping": 1,
+        "Titanium": 2
+      }
+    },
+    "Air Bladder": {
+      "name": "Air Bladder",
+      "raw": false,
+      "recipe": {
+        "Silicone Rubber": 1,
+        "Bladderfish": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Emergency flotation device. Chemical reaction produces lighter-than air gas for fast personal buoyancy.",
+      "category": "Tools",
+      "raw_totals": {
+        "Bladderfish": 1,
+        "Creepvine Seed Cluster": 1
+      }
+    },
+    "Bladderfish": {
+      "name": "Bladderfish",
+      "raw": true,
+      "recipe": {},
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {}
+    },
+    "Flare": {
+      "name": "Flare",
+      "raw": false,
+      "recipe": {
+        "Crystalline Sulfur": 1
+      },
+      "acquired_from": [
+        "Supply Crates",
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "COLD RESISTANCE: 10% Disposable light source, useful for distracting certain predators.",
+      "category": "Tools",
+      "raw_totals": {
+        "Crystalline Sulfur": 1
+      }
+    },
+    "Flashlight": {
+      "name": "Flashlight",
+      "raw": false,
+      "recipe": {
+        "Battery": 1,
+        "Glass": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Battery-powered, all-environment light source.",
+      "category": "Tools",
+      "raw_totals": {
+        "Copper Ore": 1,
+        "Quartz": 2,
+        "Ribbon Plant": 2
+      }
+    },
+    "Habitat Builder": {
+      "name": "Habitat Builder",
+      "raw": false,
+      "recipe": {
+        "Wiring Kit": 1,
+        "Computer Chip": 1,
+        "Battery": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Fabricates habitat compartments and appliances from raw materials.",
+      "category": "Tools",
+      "raw_totals": {
+        "Copper Ore": 3,
+        "Gold": 1,
+        "Ribbon Plant": 2,
+        "Silver Ore": 2,
+        "Table Coral Sample": 2
+      }
+    },
+    "Laser Cutter": {
+      "name": "Laser Cutter",
+      "raw": false,
+      "recipe": {
+        "Diamond": 2,
+        "Battery": 1,
+        "Titanium": 1,
+        "Crystalline Sulfur": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Cutting device suitable for penetrating standard titanium doors.",
+      "category": "Tools",
+      "raw_totals": {
+        "Copper Ore": 1,
+        "Crystalline Sulfur": 1,
+        "Diamond": 2,
+        "Ribbon Plant": 2,
+        "Titanium": 1
+      }
+    },
+    "Lightstick": {
+      "name": "Lightstick",
+      "raw": false,
+      "recipe": {
+        "Battery": 1,
+        "Titanium": 1,
+        "Glass": 1
+      },
+      "acquired_from": [],
+      "biomes": [],
+      "description": "",
+      "category": null,
+      "raw_totals": {
+        "Copper Ore": 1,
+        "Quartz": 2,
+        "Ribbon Plant": 2,
+        "Titanium": 1
+      }
+    },
+    "Mineral Detector": {
+      "name": "Mineral Detector",
+      "raw": false,
+      "recipe": {
+        "Battery": 1,
+        "Titanium": 1,
+        "Copper Wire": 1,
+        "Silicone Rubber": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Proximity detector used to locate materials, fragments, and other items with identifiable signatures.",
+      "category": "Tools",
+      "raw_totals": {
+        "Copper Ore": 3,
+        "Creepvine Seed Cluster": 1,
+        "Ribbon Plant": 2,
+        "Titanium": 1
+      }
+    },
+    "Pathfinder Tool": {
+      "name": "Pathfinder Tool",
+      "raw": false,
+      "recipe": {
+        "Creepvine Seed Cluster": 1,
+        "Titanium": 1,
+        "Battery": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Deploys holographic pathfinder discs. Used to map a way back out of caves or hard to navigate spaces. Max 20 discs per path.",
+      "category": "Tools",
+      "raw_totals": {
+        "Copper Ore": 1,
+        "Creepvine Seed Cluster": 1,
+        "Ribbon Plant": 2,
+        "Titanium": 1
+      }
+    },
+    "Propulsion Cannon": {
+      "name": "Propulsion Cannon",
+      "raw": false,
+      "recipe": {
+        "Wiring Kit": 1,
+        "Battery": 1,
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Warps gravity to pull and push objects.",
+      "category": "Tools",
+      "raw_totals": {
+        "Copper Ore": 1,
+        "Ribbon Plant": 2,
+        "Silver Ore": 2,
+        "Titanium": 1
+      }
+    },
+    "Repair Tool": {
+      "name": "Repair Tool",
+      "raw": false,
+      "recipe": {
+        "Silicone Rubber": 1,
+        "Crystalline Sulfur": 1,
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Multi-purpose repair tool, functional in all environments.",
+      "category": "Tools",
+      "raw_totals": {
+        "Creepvine Seed Cluster": 1,
+        "Crystalline Sulfur": 1,
+        "Titanium": 1
+      }
+    },
+    "Scanner": {
+      "name": "Scanner",
+      "raw": false,
+      "recipe": {
+        "Battery": 1,
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Spectroscope scanner used to acquire technology blueprints and data on living organisms.",
+      "category": "Tools",
+      "raw_totals": {
+        "Copper Ore": 1,
+        "Ribbon Plant": 2,
+        "Titanium": 1
+      }
+    },
+    "Survival Knife": {
+      "name": "Survival Knife",
+      "raw": false,
+      "recipe": {
+        "Silicone Rubber": 1,
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Standard survival tool. Multi-functional.",
+      "category": "Tools",
+      "raw_totals": {
+        "Creepvine Seed Cluster": 1,
+        "Titanium": 1
+      }
+    },
+    "Tether Tool": {
+      "name": "Tether Tool",
+      "raw": false,
+      "recipe": {
+        "Titanium": 2,
+        "Silicone Rubber": 1,
+        "Ion Cube": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Teleport to a nearby teleportation seatruck module.",
+      "category": "Tools",
+      "raw_totals": {
+        "Creepvine Seed Cluster": 1,
+        "Ion Cube": 1,
+        "Titanium": 2
+      }
+    },
+    "Thermoblade": {
+      "name": "Thermoblade",
+      "raw": false,
+      "recipe": {
+        "Survival Knife": 1,
+        "Battery": 1
+      },
+      "acquired_from": [
+        "Modification Station"
+      ],
+      "biomes": [],
+      "description": "Cooks and sterilizes small organisms for immediate consumption.",
+      "category": "Tools",
+      "raw_totals": {
+        "Copper Ore": 1,
+        "Creepvine Seed Cluster": 1,
+        "Ribbon Plant": 2,
+        "Titanium": 1
+      }
+    },
+    "Thumper": {
+      "name": "Thumper",
+      "raw": false,
+      "recipe": {
+        "Battery": 1,
+        "Magnetite": 1,
+        "Titanium": 1
+      },
+      "acquired_from": [
+        "Fabricator"
+      ],
+      "biomes": [],
+      "description": "Thumps things.",
+      "category": "Tools",
+      "raw_totals": {
+        "Copper Ore": 1,
+        "Magnetite": 1,
+        "Ribbon Plant": 2,
+        "Titanium": 1
+      }
+    }
+  }
+}

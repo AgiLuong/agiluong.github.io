@@ -1,0 +1,12 @@
+---
+layout: default
+title: Agi's Projects
+---
+{% assign projects = site.projects | sort: "weight" %}
+{% for project in projects %}
+<div class="content">
+    <u><h3><a class="item" href="{{ project.url }}">{{ project.title }}</a></h3></u>
+    {% if project.blurb %}<p>{{ project.blurb }}</p>{% endif %}
+</div>
+<hr style="width: 50%">
+{% endfor %}

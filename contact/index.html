@@ -1,29 +1,13 @@
 ---
+layout: default
 title: Agi's Contact
 ---
-<!DOCTYPE html>
-<html lang="en">
-<title>
-{% if page.title %}
-    {{ page.title }}
-{% else %}
-    {{ site.title }}
-{% endif %}
-</title>
-{% include head.html %}
-<body>
-    {% include header.html %}
-    <div class="content">
-        <p>You can contact me at giahuy.luong111 [AT] gmail [DOT] com : )</p>
-        <br>
-        <p>Or you can message me on <u><a class="item" href="https://www.linkedin.com/in/gia-huy-luong/" target="_blank">LinkedIn</a></u></p>
-        <br>
-        <p>Or perhaps take a peek at my <u><a class="item" href="https://github.com/AgiLuong" target="_blank">GitHub</a></u></p>
-        <br>
-        <p>Or if you want to schedule a time to <u><a class="item" href="https://calendar.app.google/Go5Pwrrwpd5oBDtb9" target="_blank">meet</a></u></p>
-    </div>
-
-</body>
-</html>
-
-
+<div class="content">
+    <p>You can contact me at giahuy.luong111 [AT] gmail [DOT] com : )</p>
+    <br>
+    <p>Or you can message me on <u><a class="item" href="{{ site.data.links.linkedin }}" target="_blank">LinkedIn</a></u></p>
+    <br>
+    <p>Or perhaps take a peek at my <u><a class="item" href="{{ site.data.links.github }}" target="_blank">GitHub</a></u></p>
+    <br>
+    <p>Or if you want to schedule a time to <u><a class="item" href="{{ site.data.links.meet }}" target="_blank">meet</a></u></p>
+</div>
